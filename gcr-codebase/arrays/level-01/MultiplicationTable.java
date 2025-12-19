@@ -6,7 +6,7 @@ public class MultiplicationTable{
 		// Create scanner object and taking the number for table print 
 		Scanner input = new Scanner(System.in);
 		System.out.println("Enter the number ");
-		int number = input.nextInt();x
+		int number = input.nextInt();
 		int [] arrTable = new int[10];
 		// For loop for taking number from user and store it in array
 		for(int index = 0 ; index < 10 ; index++){
