@@ -8,7 +8,7 @@ public class MatrixManipulation {
             for (int j = 0; j < cols; j++) {
                 matrix[i][j] = (int) (Math.random() * 9) + 1; // 1 to 9
             }
-        }
+        } 
         return matrix;
     }
     //  Method to find transpose of a matrix
