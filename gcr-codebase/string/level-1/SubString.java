@@ -1,8 +1,8 @@
 import java.util.Scanner;
 public class SubString{
-	public static string builtSubString(String string, int start , int end){
+	public static String builtSubString(String string, int start , int end){
 		String subString = "";
-		for(int index = 0 ; index <= end&&index < string.length(); index++){
+		for(int index = start ; index <= end&&index < string.length(); index++){
 			subString += string.charAt(index);
 		}
 		return subString;
@@ -25,14 +25,14 @@ public class SubString{
 		String stringOne = input.next();
 		System.out.println("Enter the start index from 0 to "+ (stringOne.length()-1));
 		int startIndex = input.nextInt();
-		System.out.println("Enter the end index from +startIndex+" to "+ (stringOne.length()-1));
+		System.out.println("Enter the end index from " +startIndex+ " to " +(stringOne.length()-1));
 		int endIndex = input.nextInt();
-		String subStringOne = builtSubString(stringOne,start,end);
-		String subStringTwo = subString(stringOne , start , end+1);
+		String subStringOne = builtSubString(stringOne,startIndex,endIndex);
+		String subStringTwo = stringOne.substring(startIndex , endIndex+1);
 		boolean result = campareString(subStringOne,subStringTwo);
 		
-		System.out.println("Create using builtSubString method: "+stringOne);
-		System.out.println("Create using built in subString method: " +stringTwo);
+		System.out.println("Create using builtSubString method: "+subStringOne);
+		System.out.println("Create using built in subString method: " +subStringTwo);
 		if(result){
 			System.out.println("Both subString is same");
 		}
