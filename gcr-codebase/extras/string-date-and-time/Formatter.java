@@ -11,7 +11,8 @@ public class Formatter{
 		//print the format using today 
 		System.out.println("Format 1: "+today.format(f1));
 		System.out.println("Format 1: "+today.format(f2));		
-		System.out.println("Format 1: "+today.format(f3));				
+		System.out.println("Format 1: "+today.format(f3));
+				
 	}
 	public static void main(String [] args){
 		//it display all the format
