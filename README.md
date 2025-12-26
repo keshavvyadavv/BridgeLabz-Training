@@ -1,0 +1,27 @@
+# Week 1: Git, GitHub & Java Programming Fundamentals
+
+## 📅 Day 1 – Git & GitHub Setup  
+**(Date: 15-Dec-2025)**
+
+- Installed and configured Git.
+- Set up GitHub repository.
+
+📁 **Project Folder Structure**
+
+```
+BridgeLabz-Training
+│
+├── core-java-practice
+│   │
+│   ├── gcr-codebase
+│   │   ├── programming-elements
+│   │   ├── control-flow
+│   │   ├── arrays
+│   │   └── program-prerequisite
+│   │
+│   ├── scenario-based
+│   │
+│   └── leet-code-codebase
+│
+└── README.md
+```
