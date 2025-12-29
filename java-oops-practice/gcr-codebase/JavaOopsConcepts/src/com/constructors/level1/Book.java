@@ -15,8 +15,8 @@ public class Book{
  Book(String title , String author  , int price){
      this.title = title;
      this.author = author;
-     this.price = price;
- }
+     this.price = price;  
+ } 
 	private int getPrice(){
 		return this.price;
 	}
