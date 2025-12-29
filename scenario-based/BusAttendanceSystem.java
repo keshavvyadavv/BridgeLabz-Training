@@ -8,11 +8,13 @@ import java.util.Scanner;
 public class BusAttendanceSystem{
 	public static void main(String [] args){
 		
+		//scanner object 
 		Scanner input = new Scanner(System.in);
 		String [] names = {"Keshav","ankit", "ramesh","sanchit","aviral","mahak","rajeev", "ayush","anuj","vikash"};
 		String [] attendence = new String[10];
 		int presentCount = 0;
 		int absentCount = 0;
+		//ask and store
 		for(int i = 0 ; i < names.length ; i++){
 			System.out.println(names[i]+" is present ? (enter P for present and A for absent)");
 			char ch = input.next().charAt(0);
@@ -28,6 +30,7 @@ public class BusAttendanceSystem{
 			}
 		}
 		
+		//Display result
 		System.out.println("+----------------+------------+");
 		System.out.println("| Student Name   |  Attendance|");
 		System.out.println("+----------------+------------+");
