@@ -39,3 +39,23 @@ Systematically organized all constructor and static concept programs under the *
 🔗 **Code Link:**
 👉 *Day 10 – Constructors & Instance vs Class Concepts*
 [https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructors/level1](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructors/level1)
+
+
+📅 **Day 11 – Java OOPS: Core Java Keywords**  
+**Date:** 29-Dec-2025  
+**Focus:** static, final, this, instanceof  
+
+### 📘 Learning Summary
+- Studied essential Java keywords and their significance in Object-Oriented Programming.
+- Understood the use of the `static` keyword for class-level variables, methods, and shared behavior.
+- Learned how the `final` keyword restricts modification of variables, methods, and classes.
+- Practiced using the `this` keyword to reference the current object and resolve ambiguity between instance variables and parameters.
+- Gained clarity on the `instanceof` operator for checking object types at runtime.
+- Implemented small programs to observe the impact of these keywords on object behavior and memory usage.
+- Focused on writing clean, readable, and well-structured OOPS-based Java code.
+- Followed proper naming conventions, indentation, and consistent formatting.
+- Organized all keyword-based programs systematically in the `java-oops-practice` branch.
+
+### 🔗 Code Reference
+👉 **Day 11 – static, final, this, instanceof**  
+https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/javakeywords/level1
