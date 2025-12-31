@@ -1,4 +1,4 @@
-package com.objectmodeling.level1;
+package com.inheritance.level1;
 
 public class Car extends Vehicle {
 	private int seatCapacity;

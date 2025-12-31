@@ -1,4 +1,4 @@
-package com.objectmodeling.level1;
+package com.inheritance.level1;
 //create Vehicle class that act as a super class
 public class Vehicle {
 	private int maxSpeed;

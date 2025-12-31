@@ -1,4 +1,4 @@
-package com.objectmodeling.level1;
+package com.inheritance.level1;
 //create motorcycle class that inherite vehicle using extends
 public class Motorcycle  extends Vehicle {
 	private int milez;

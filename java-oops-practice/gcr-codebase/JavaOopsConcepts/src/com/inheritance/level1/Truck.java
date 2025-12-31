@@ -1,4 +1,4 @@
-package com.objectmodeling.level1;
+package com.inheritance.level1;
 //create Truck class that inherite vehicle using extends
 public class Truck extends Vehicle {
 	private int loadingCapacity;
