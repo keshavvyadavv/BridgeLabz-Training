@@ -79,24 +79,30 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/jav
 ### 🔗 Code Reference
  https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodeling/level1
 
-## Day 13 – UML Diagrams: Object Diagram
+## 📅 Day 13 – Java OOPS: Inheritance
+(Date: 31-Dec-2025) (Focus: Inheritance & Code Reusability in OOPS)
 
-Date: 31-Dec-2025
-Focus: Object Diagrams & Object Relationships
+-> Gained a clear understanding of Inheritance in Java and its role in promoting code reusability.
 
-### What I Learned
-- Learned the concept of Object Diagrams in UML and how they represent a snapshot of objects at a specific point in time.
-- Understood the difference between Class Diagrams and Object Diagrams.
-- Practiced creating an Object Diagram for a Student–Subject system using real data values.
-- Learned how to represent objects using objectName : ClassName notation.
-- Displayed actual attribute values such as student name, subjects, and marks.
-- Represented object relationships, where a Student object is linked to multiple Subject objects.
-- Used real-world examples to clearly understand object interactions.
-- Focused on drawing clean, readable, and well-structured UML diagrams.
-- Followed proper labeling, alignment, and consistency while creating diagrams.
-- Organized UML diagram practice content systematically in the java-oops-practice branch.
+-> Learned how superclass (parent) and subclass (child) are connected through inheritance.
 
-### 🔗 Code Reference
+-> Practiced single inheritance to reuse and extend the features of an existing base class.
 
-👉 Day 13 – UML Object Diagram (Student & Subject)
-https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/uml/objectdiagram
+-> Explored multilevel inheritance, where a class derives from another derived class.
+
+-> Implemented hierarchical inheritance to represent multiple subclasses inheriting from one common parent class.
+
+-> Used the extends keyword to create inheritance relationships between classes.
+
+-> Understood the concept of method overriding in inherited classes.
+
+-> Learned the importance of the super keyword for accessing parent class constructors and methods.
+
+-> Emphasized writing clean, readable, and well-structured OOPS-based code.
+
+-> Maintained proper naming conventions, indentation, and consistent formatting throughout the code.
+
+-> Systematically organized all inheritance-based programs in the java-oops-practice branch.
+
+🔗 Code Link: 👉 Day 13 – Inheritance
+https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance/level1
