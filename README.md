@@ -64,7 +64,7 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/jav
 **Date:** 30-Dec-2025  
 **Focus:** Data Modeling, Association, Aggregation & Composition  
 
-### ✅ What I Learned
+###  What I Learned
 - Explored data modeling in Object-Oriented Programming to represent real-world systems.
 - Understood different object relationships and how classes interact.
 - Studied Association to model communication between independent objects.
@@ -77,5 +77,5 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/jav
 - Organized all programs systematically in the java-oops-practice branch.
 
 ### 🔗 Code Reference
-👉 https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodeling/level1
+ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodeling/level1
 
