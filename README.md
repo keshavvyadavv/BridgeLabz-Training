@@ -15,7 +15,7 @@
 👉 [Day 9 – Class and Objects](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobjects/level1)
 ---
 
-📅 **Day 10 – Java OOPS: Constructors & Class-Level Concepts**
+ **Day 10 – Java OOPS: Constructors & Class-Level Concepts**
 *(Date: 27-Dec-2025 | Focus: Constructors, Instance vs Class Variables & Methods)*
 
 Dived deeper into **Java Constructors**, understanding how they play a crucial role in initializing objects at the time of creation.
@@ -41,11 +41,11 @@ Systematically organized all constructor and static concept programs under the *
 [https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructors/level1](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructors/level1)
 
 
-📅 **Day 11 – Java OOPS: Core Java Keywords**  
+ **Day 11 – Java OOPS: Core Java Keywords**  
 **Date:** 29-Dec-2025  
 **Focus:** static, final, this, instanceof  
 
-### 📘 Learning Summary
+###  Learning Summary
 - Studied essential Java keywords and their significance in Object-Oriented Programming.
 - Understood the use of the `static` keyword for class-level variables, methods, and shared behavior.
 - Learned how the `final` keyword restricts modification of variables, methods, and classes.
@@ -60,7 +60,7 @@ Systematically organized all constructor and static concept programs under the *
 👉 **Day 11 – static, final, this, instanceof**  
 https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/javakeywords/level1
 
-## 📅 Day 12 – Java OOPS: Data Modeling & Object Relationships
+##  Day 12 – Java OOPS: Data Modeling & Object Relationships
 **Date:** 30-Dec-2025  
 **Focus:** Data Modeling, Association, Aggregation & Composition  
 
@@ -79,3 +79,24 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/jav
 ### 🔗 Code Reference
  https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodeling/level1
 
+## Day 13 – UML Diagrams: Object Diagram
+
+Date: 31-Dec-2025
+Focus: Object Diagrams & Object Relationships
+
+### What I Learned
+- Learned the concept of Object Diagrams in UML and how they represent a snapshot of objects at a specific point in time.
+- Understood the difference between Class Diagrams and Object Diagrams.
+- Practiced creating an Object Diagram for a Student–Subject system using real data values.
+- Learned how to represent objects using objectName : ClassName notation.
+- Displayed actual attribute values such as student name, subjects, and marks.
+- Represented object relationships, where a Student object is linked to multiple Subject objects.
+- Used real-world examples to clearly understand object interactions.
+- Focused on drawing clean, readable, and well-structured UML diagrams.
+- Followed proper labeling, alignment, and consistency while creating diagrams.
+- Organized UML diagram practice content systematically in the java-oops-practice branch.
+
+### 🔗 Code Reference
+
+👉 Day 13 – UML Object Diagram (Student & Subject)
+https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/uml/objectdiagram
