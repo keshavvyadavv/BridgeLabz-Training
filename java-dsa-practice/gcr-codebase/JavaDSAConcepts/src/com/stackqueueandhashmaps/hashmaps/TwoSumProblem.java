@@ -1,4 +1,4 @@
-package com.hashmaps;
+package com.stackqueueandhashmaps.hashmaps;
 
 import java.util.HashMap;
 import java.util.Map;

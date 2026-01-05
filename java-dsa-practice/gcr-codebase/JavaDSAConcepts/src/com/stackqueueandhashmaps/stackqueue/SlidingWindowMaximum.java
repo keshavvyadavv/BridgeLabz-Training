@@ -1,4 +1,4 @@
-package com.stackqueue;
+package com.stackqueueandhashmaps.stackqueue;
 
 import java.util.Deque;
 import java.util.ArrayDeque;

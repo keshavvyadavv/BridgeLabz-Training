@@ -1,4 +1,4 @@
-package com.stackqueue;
+package com.stackqueueandhashmaps.stackqueue;
 
 
 public class CircularTour{
