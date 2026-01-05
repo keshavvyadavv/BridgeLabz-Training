@@ -1,4 +1,4 @@
-package com.stackqueueandhashmaps;
+package com.stackqueue;
 
 import java.util.Stack;
 
@@ -17,7 +17,7 @@ public class SortStack {
         insertSorted(stack, top);
     }
 
-    // Helper function to insert element in sorted order
+    //helper function to insert element in sorted order
     private static void insertSorted(Stack<Integer> stack, int value) {
         // Base case: empty stack or value > top element
         if (stack.isEmpty() || value > stack.peek()) {
