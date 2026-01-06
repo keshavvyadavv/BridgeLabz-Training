@@ -228,8 +228,11 @@ BridgeLabz-Training
 
 🔗 *Code Link:*
 👉 [Day 9 – Class and Objects](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobjects/level1)
----
 
+ - **Scenario-Based OOPS Practice**  
+  👉 [Scenario Based](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/core-java-practice/scenario-based)
+
+---
 
  **Day 10 – Java OOPS: Constructors & Class-Level Concepts**
 *(Date: 27-Dec-2025 | Focus: Constructors, Instance vs Class Variables & Methods)*
@@ -276,6 +279,10 @@ Systematically organized all constructor and static concept programs under the *
 👉 **Day 11 – static, final, this, instanceof**  
 https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/javakeywords/level1
 
+ - **Scenario-Based OOPS Practice**  
+  👉 [Scenario Based](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/core-java-practice/scenario-based)
+
+--
 
 ##  Day 12 – Java OOPS: Data Modeling & Object Relationships
 **Date:** 30-Dec-2025  
@@ -295,6 +302,10 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/jav
 
 ### 🔗 Code Reference
  https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodeling/level1
+
+ - **Scenario-Based OOPS Practice**  
+  👉 [Scenario Based](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/core-java-practice/scenario-based)
+  
 
 ## Day 13 – Java OOPS: Inheritance
 (Date: 31-Dec-2025) (Focus: Inheritance & Code Reusability in OOPS)
@@ -322,7 +333,11 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/jav
 -> Systematically organized all inheritance-based programs in the java-oops-practice branch.
 
 🔗 Code Link: 👉 Day 13 – Inheritance
+
 https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance/level1
+
+- **Scenario-Based OOPS Practice**  
+  👉 [Scenario Based](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/oopspracticescenariobasedquestions/src/com)
 
 ## Day 14 – Java OOPS: Scenario-Driven Design & Core OOPS Principles
 
@@ -367,7 +382,7 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/jav
 
 # Day 15 – Java DSA: Linked List Best Practices
 
-**Date:** 03-Jan-2026  
+**Date:** 02-Jan-2026  
 **Focus:** Singly, Doubly & Circular Linked Lists
 
 ---
@@ -384,13 +399,15 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/jav
 ---
 
 ## 🔗 Code Repository
+- **Scenario-Based OOPS Practice**  
+  👉 [Scenario Based](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/oopspracticescenariobasedquestions/src/com)
 
 [Java DSA Linked List Projects](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/linkedlist)
 
 
 # Day 16 – Java DSA: Stack, Queue & HashMap
 
-**Date:** 04-Jan-2026  
+**Date:** 03-Jan-2026  
 **Focus:** Stack, Queue & HashMap
 
 ## Learnings & Best Practices
@@ -402,5 +419,30 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/jav
 - Focused on clean, modular, and readable code.
 
 ## 🔗 Code Repository  
+- **Scenario-Based OOPS Practice**  
+  👉 [Scenario Based](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/oopspracticescenariobasedquestions/src/com)
+  
 https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com
 
+---
+
+# Day 17 – Java DSA: Sorting Algorithms
+**Date:** 05-Jan-2026
+
+## 🔹 Topics Covered
+
+* Bubble Sort – Student Marks
+* Insertion Sort – Employee IDs
+* Selection Sort – Exam Scores
+* Merge Sort – Book Prices
+* Quick Sort – Product Prices
+* Heap Sort – Job Applicants’ Salary
+* Counting Sort – Student Ages (10–18)
+
+## 🔗 Code Repository
+- **Scenario-Based OOPS Practice**  
+  👉 [Scenario Based](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/oopspracticescenariobasedquestions/src/com)
+  
+👉 [https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/sortingalgorithms](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/sortingalgorithms)
+
+---
