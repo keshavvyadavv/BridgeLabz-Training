@@ -324,3 +324,43 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/jav
 🔗 Code Link: 👉 Day 13 – Inheritance
 https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance/level1
 
+## Day 14 – Java OOPS: Scenario-Driven Design & Core OOPS Principles
+
+ **Date:** 01-Jan-2026  
+ **Focus:** Encapsulation, Polymorphism, Abstract Classes & Interfaces  
+
+- Solved **4 real-world, scenario-based OOPS problems** using proper object-oriented design techniques.
+
+- Implemented **Encapsulation** by securing data with private fields and providing controlled access using getters and setters.
+
+- Gained hands-on understanding of **Polymorphism** by using common method names with different implementations across classes.
+
+- Practiced **Abstract Classes** to define shared behavior with partial implementation.
+
+- Used **Interfaces** to define standard contracts implemented by multiple classes.
+
+- Followed a **structured scenario-solving approach**, including:
+  - Understanding the scenario and constraints  
+  - Identifying entities, responsibilities, and relationships  
+  - Designing classes, constructors, methods, and access modifiers  
+
+- Applied **Inheritance, Interfaces, and Polymorphism** wherever logically required.
+
+- Selected **appropriate data structures** based on scenario requirements.
+
+- Focused on writing **clean, modular, readable, and maintainable Java OOPS code**.
+
+- Maintained **consistent naming conventions, proper indentation, and logical structure**.
+
+- Organized all OOPS practice programs systematically under the **`java-oops-practice`** branch.
+
+---
+
+### 🔗 Code Links
+
+- **Scenario-Based OOPS Practice**  
+  👉 [Bank Management System – Scenario Based](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/oopspracticescenariobasedquestions/src/com/bankmanagementsystem)
+
+- **Java OOPS Concepts – Encapsulation & Polymorphism**  
+  👉 [Encapsulation & Polymorphism](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulationandpolymorphism)
+
