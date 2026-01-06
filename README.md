@@ -3,23 +3,25 @@
 **Date:** 03-Jan-2026  
 **Focus:** Singly, Doubly & Circular Linked Lists
 
----
+### 📂 Project Folder Structure
 
+```text
 BridgeLabz-Training
-│
+|
 ├── dsa-practice
-│   │
-│   ├── gcr-codebase
-│   │   └── java-dsa-concepts
-│   │          └── src 
-│   │              └── com
-│   │                  ├── linkedlist
-│   │                  ├── sortingalogrithms
-│   │                  └── stackqueueandhashmaps
-│   ├── scenario-based
-│   │
-│   └── leet-code-codebase
-│
+|   |
+|   ├── gcr-codebase
+|   |   └── java-dsa-concepts
+|   |       └── src
+|   |           └── com
+|   |               ├── linkedlist
+|   |               ├── sortingalgorithms
+|   |               └── stackqueueandhashmaps
+|   |
+|   ├── scenario-based
+|   |
+|   └── leet-code-codebase
+|
 └── README.md
 
 ## 📝 Learnings & Best Practices
