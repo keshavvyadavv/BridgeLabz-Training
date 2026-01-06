@@ -1,6 +1,6 @@
 #  Day 15 – Java DSA: Linked List Best Practices
 
-**Date:** 03-Jan-2026  
+**Date:** 02-Jan-2026  
 **Focus:** Singly, Doubly & Circular Linked Lists
 
 ### 📂 Project Folder Structure
