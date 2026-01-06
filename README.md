@@ -1,10 +1,29 @@
-# 📅 Day 15 – Java DSA: Linked List Best Practices
+#  Day 15 – Java DSA: Linked List Best Practices
 
-**Date:** 03-Jan-2026  
+**Date:** 02-Jan-2026  
 **Focus:** Singly, Doubly & Circular Linked Lists
 
----
+### 📂 Project Folder Structure
 
+```text
+BridgeLabz-Training
+|
+├── dsa-practice
+|   |
+|   ├── gcr-codebase
+|   |   └── java-dsa-concepts
+|   |       └── src
+|   |           └── com
+|   |               ├── linkedlist
+|   |               ├── sortingalgorithms
+|   |               └── stackqueueandhashmaps
+|   |
+|   ├── scenario-based
+|   |
+|   └── leet-code-codebase
+|
+└── README.md
+```
 ## 📝 Learnings & Best Practices
 
 - Maintained **head & tail pointers** for efficient access to first and last nodes.  
@@ -21,12 +40,12 @@
 [Java DSA Linked List Projects](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/linkedlist)
 
 
-# 📅 Day 16 – Java DSA: Stack, Queue & HashMap
+#  Day 16 – Java DSA: Stack, Queue & HashMap
 
-**Date:** 04-Jan-2026  
+**Date:** 03-Jan-2026  
 **Focus:** Stack, Queue & HashMap
 
-## 📝 Learnings & Best Practices
+##  Learnings & Best Practices
 
 - Implemented Stack operations (push, pop, peek) following LIFO principle.  
 - Implemented Queue operations (enqueue, dequeue) following FIFO principle.  
@@ -36,3 +55,24 @@
 
 ## 🔗 Code Repository  
 https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com
+
+
+
+# Day 17 – Java DSA: Sorting Algorithms
+**Date:** 05-Jan-2026
+
+## 🔹 Topics Covered
+
+* Bubble Sort – Student Marks
+* Insertion Sort – Employee IDs
+* Selection Sort – Exam Scores
+* Merge Sort – Book Prices
+* Quick Sort – Product Prices
+* Heap Sort – Job Applicants’ Salary
+* Counting Sort – Student Ages (10–18)
+
+## 🔗 Code Repository
+
+👉 [https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/sortingalgorithms](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/sortingalgorithms)
+
+---
