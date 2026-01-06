@@ -1,7 +1,7 @@
 
 # Week 1: Git, GitHub & Java Programming Fundamentals
 
-## 📅 Day 1 – Git & GitHub Setup  
+##  Day 1 – Git & GitHub Setup  
 **(Date: 15-Dec-2025)**
 
 - Installed and configured Git.
@@ -30,7 +30,7 @@ BridgeLabz-Training
 - Learned basic Git commands (`init`, `branch`, `checkout`, `add`, `commit`, `push`).
 - Successfully pushed files to the remote repository.
   
-## 📅 Day 2 – Git Practice & Basic Java Programs   
+##  Day 2 – Git Practice & Basic Java Programs   
 **(Date: 16-Dec-2025)**
 **(Focus: Writing Clean & Professional Java Code)**
 
@@ -52,7 +52,7 @@ BridgeLabz-Training
 👉 [Day 2 – Basic Java Programs](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-prerequisite)
 
 
-## 📅 Day 3 – Java Programming Elements
+##  Day 3 – Java Programming Elements
 **(Date: 17-Dec-2025)**
 - Studied Java programming elements:
   - Variables and data types
@@ -65,7 +65,7 @@ BridgeLabz-Training
 👉 [Day 3 – Java Programming Elements](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
 
 
-## 📅 Day 4 – Control Flows  
+##  Day 4 – Control Flows  
 **(Date: 18-Dec-2025)**
 **(Logic Building with Conditional & Looping Constructs)**
 
@@ -82,7 +82,7 @@ BridgeLabz-Training
 👉 [Day 4 – Java Control Flow](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow)
 
 
-## 📅 Day 5 – Java Arrays 
+##  Day 5 – Java Arrays 
 **(Date:19-Dec-2025)**
 **(Data Storage & Manipulation Techniques)**
 
@@ -98,7 +98,7 @@ BridgeLabz-Training
 👉 [Day 5 –Java Arrays](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
 
-## 📅 Day 6 – Java Methods 
+## Day 6 – Java Methods 
 **(Date: 20-Dec-2025)**
 
 - Practiced **Java Methods** to understand modular and reusable code design.
@@ -133,7 +133,7 @@ BridgeLabz-Training
 🔗 *Code Link:*  
 👉 [Day 6 – Java Methods](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
 
-## 📅 Day 7– Java Strings 
+## Day 7– Java Strings 
 **(Date: 22-Dec-2025)**
 
 - Worked on **Java String concepts** and operations.
@@ -170,7 +170,7 @@ BridgeLabz-Training
 👉 [Day 7 – Java Strings](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/string)
 
 
-## 📅 Day 8 – Extras & Advanced Practice  
+## Day 8 – Extras & Advanced Practice  
 **(Date: 23-Dec-2025)**
 **(Extended Java Concepts & Built-in Features)**
 
@@ -257,7 +257,7 @@ Systematically organized all constructor and static concept programs under the *
 [https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructors/level1](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructors/level1)
 
 
- **Day 11 – Java OOPS: Core Java Keywords**  
+**Day 11 – Java OOPS: Core Java Keywords**  
 **Date:** 29-Dec-2025  
 **Focus:** static, final, this, instanceof  
 
@@ -275,4 +275,24 @@ Systematically organized all constructor and static concept programs under the *
 ### 🔗 Code Reference
 👉 **Day 11 – static, final, this, instanceof**  
 https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/javakeywords/level1
+
+
+##  Day 12 – Java OOPS: Data Modeling & Object Relationships
+**Date:** 30-Dec-2025  
+**Focus:** Data Modeling, Association, Aggregation & Composition  
+
+###  What I Learned
+- Explored data modeling in Object-Oriented Programming to represent real-world systems.
+- Understood different object relationships and how classes interact.
+- Studied Association to model communication between independent objects.
+- Learned Aggregation as a has-a relationship where objects can exist independently.
+- Understood Composition, where child objects depend on the parent’s lifecycle.
+- Practiced designing conceptual class diagrams before coding.
+- Implemented real-world Java examples demonstrating association, aggregation, and composition.
+- Focused on writing clean, modular, and well-structured OOPS-based code.
+- Followed proper naming conventions, indentation, and consistent formatting.
+- Organized all programs systematically in the java-oops-practice branch.
+
+### 🔗 Code Reference
+ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodeling/level1
 
