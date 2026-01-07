@@ -18,7 +18,9 @@ BridgeLabz-Training
 |   |               ├── linkedlist
 |   |               ├── sortingalgorithms
 |   |               └── stackqueueandhashmaps
-|   |
+|   |               └── searching
+|   |               └── stringbuffer
+|   |               └── stringbuilder
 |   ├── scenario-based
 |   |
 |   └── leet-code-codebase
@@ -64,16 +66,29 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-
 
 ## 🔹 Topics Covered
 
-* Bubble Sort – Student Marks
-* Insertion Sort – Employee IDs
-* Selection Sort – Exam Scores
-* Merge Sort – Book Prices
-* Quick Sort – Product Prices
-* Heap Sort – Job Applicants’ Salary
-* Counting Sort – Student Ages (10–18)
+* Bubble Sort 
+* Insertion Sort 
+* Selection Sort
+* Merge Sort
+* Quick Sort
+* Heap Sort
+* Counting Sort
 
 ## 🔗 Code Repository
 
 👉 [https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/sortingalgorithms](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/sortingalgorithms)
+
+---
+
+## Day 18 – Data Structures: Searching, StringBuffer, StringBuilder, File Handling
+(Date: 06-01-2026) (Focus: String Handling, Searching & File Handling)
+
+- Learned mutable string handling using StringBuffer and StringBuilder, along with their performance differences.
+- Studied efficient data searching methods such as linear search and binary search.
+- Practiced file handling with BufferedReader and focused on writing clean, optimized Java code following core Java best practices.
+
+## 🔗 Code Repository
+
+👉 [Stringbuffer, Stringbuilder, and Searching](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/searching)
 
 ---
