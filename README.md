@@ -212,6 +212,7 @@ BridgeLabz-Training
 🔗 *Code Link:*  
 👉 [Day 8– Extras & Advanced Practice ](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
 
+# Week 2 : Object Oriented Programming
 
 ##  Day 9 – Java OOPS: Class & Object
 
@@ -380,7 +381,8 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/jav
   👉 [Encapsulation & Polymorphism](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulationandpolymorphism)
 
 
-# Day 15 – Java DSA: Linked List Best Practices
+# Week 3: Data Structures & Algorithm
+## Day 15 – Java DSA: Linked List Best Practices
 
 **Date:** 02-Jan-2026  
 **Focus:** Singly, Doubly & Circular Linked Lists
