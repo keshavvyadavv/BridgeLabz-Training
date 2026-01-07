@@ -8,23 +8,50 @@
 - Set up GitHub repository.
 
 📁 **Project Folder Structure**
-
 ```
-BridgeLabz-Training
+BridgeLabz-Training/
 │
-├── core-java-practice
-│   │
-│   ├── gcr-codebase
-│   │   ├── programming-elements
-│   │   ├── control-flow
-│   │   ├── arrays
-│   │   └── program-prerequisite
-│   │
-│   ├── scenario-based
-│   │
-│   └── leet-code-codebase
+├── 📁 core-java-practice/
+│   ├── 📁 gcr-codebase/
+│   │   ├── 📁 prerequisites/          # Basic Java programs 
+│   │   ├── 📁 programming-elements/   # Java programming elements 
+│   │   ├── 📁 control-flows/          # If-else, loops, switch 
+│   │   ├── 📁 arrays/                 # Array operations
+│   │   ├── 📁 methods/                # Method practices
+│   │   ├── 📁 strings/                # String manipulation 
+│   │   └── 📁 Extras/                 # Built-in methods
+│   ├── 📁 leet-code-codebase/         # LeetCode solutions
+│   └── 📁 scenario-based-codebase/    # Real-world problems
 │
+└── 📁 java-oops-practice/
+│   └── 📁 gcr-codebase/
+│   │  └── 📁 JavaOopsConcepts/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 classandobject/    # Procedural vs OOP, fundamentals
+│   │               └── 📁 constructor/       # Constructor, access modifiers
+│   │               └── 📁 finalandstatic/    # Keywords, instance vs class members
+│   │               └── 📁 objectmodeling/    # Diagrams, relationships, communication
+│   │               └── 📁 inheritance/       # Types, method overriding, & access modifiers
+│   │               └── 📁 encapsulation/     # Abstract class, interface, & polymorphism
+│   ├── 📁 leet-code-codebase/                # LeetCode solutions
+│   └── 📁 scenario-based-codebase/           # Real-world problems
+|
+└── 📁 dsa-practice/
+│   └── 📁 gcr-codebase/
+│   │  └── 📁 DSAConcepts/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 linkedlists/       # singly, doubly & circular
+│   │               └── 📁 stacks/            # Last-In-First-Out (LIFO)
+│   │               └── 📁 queues/            # First-In-First-Out (FIFO)
+│   │               └── 📁 hashmaps/          # Key-Value pairs
+│   │               └── 📁 sorting/           # Sorting algorithms
+│   ├── 📁 leet-code-codebase/                # LeetCode solutions
+│   └── 📁 scenario-based-codebase/           # Real-world problems
+|
 └── README.md
+
 ```
 
 - Learned basic Git commands (`init`, `branch`, `checkout`, `add`, `commit`, `push`).
