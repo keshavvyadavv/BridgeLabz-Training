@@ -13,42 +13,42 @@ BridgeLabz-Training/
 │
 ├── 📁 core-java-practice/
 │   ├── 📁 gcr-codebase/
-│   │   ├── 📁 prerequisites/          # Basic Java programs 
-│   │   ├── 📁 programming-elements/   # Java programming elements 
-│   │   ├── 📁 control-flows/          # If-else, loops, switch 
-│   │   ├── 📁 arrays/                 # Array operations
-│   │   ├── 📁 methods/                # Method practices
-│   │   ├── 📁 strings/                # String manipulation 
-│   │   └── 📁 Extras/                 # Built-in methods
-│   ├── 📁 leet-code-codebase/         # LeetCode solutions
-│   └── 📁 scenario-based-codebase/    # Real-world problems
+│   │   ├── 📁 prerequisites/       
+│   │   ├── 📁 programming-elements/   
+│   │   ├── 📁 control-flows/        
+│   │   ├── 📁 arrays/                 
+│   │   ├── 📁 methods/              
+│   │   ├── 📁 strings/             
+│   │   └── 📁 Extras/                 
+│   ├── 📁 leet-code-codebase/        
+│   └── 📁 scenario-based-codebase/    
 │
 └── 📁 java-oops-practice/
 │   └── 📁 gcr-codebase/
 │   │  └── 📁 JavaOopsConcepts/
 │   │       └── 📁 src/
 │   │           └── 📁 com/
-│   │               ├── 📁 classandobject/    # Procedural vs OOP, fundamentals
-│   │               └── 📁 constructor/       # Constructor, access modifiers
-│   │               └── 📁 finalandstatic/    # Keywords, instance vs class members
-│   │               └── 📁 objectmodeling/    # Diagrams, relationships, communication
-│   │               └── 📁 inheritance/       # Types, method overriding, & access modifiers
-│   │               └── 📁 encapsulation/     # Abstract class, interface, & polymorphism
-│   ├── 📁 leet-code-codebase/                # LeetCode solutions
-│   └── 📁 scenario-based-codebase/           # Real-world problems
+│   │               ├── 📁 classandobject/    
+│   │               └── 📁 constructor/       
+│   │               └── 📁 finalandstatic/    
+│   │               └── 📁 objectmodeling/    
+│   │               └── 📁 inheritance/       
+│   │               └── 📁 encapsulation/     
+│   ├── 📁 leet-code-codebase/                
+│   └── 📁 scenario-based-codebase/           
 |
 └── 📁 dsa-practice/
 │   └── 📁 gcr-codebase/
 │   │  └── 📁 DSAConcepts/
 │   │       └── 📁 src/
 │   │           └── 📁 com/
-│   │               ├── 📁 linkedlists/       # singly, doubly & circular
-│   │               └── 📁 stacks/            # Last-In-First-Out (LIFO)
-│   │               └── 📁 queues/            # First-In-First-Out (FIFO)
-│   │               └── 📁 hashmaps/          # Key-Value pairs
-│   │               └── 📁 sorting/           # Sorting algorithms
-│   ├── 📁 leet-code-codebase/                # LeetCode solutions
-│   └── 📁 scenario-based-codebase/           # Real-world problems
+│   │               ├── 📁 linkedlist/
+│   │               └── 📁 sortingalgorithms/
+│   │               └── 📁 stringbuffer/
+│   │               └── 📁 stringbuilder/   
+│   │               └── 📁 stackqueueandhashmaps/      
+│   ├── 📁 leet-code-codebase/               
+│   └── 📁 scenario-based-codebase/           
 |
 └── README.md
 
@@ -492,8 +492,23 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-
 
 ## 🔗 Code Repository
 - **Scenario-Based OOPS Practice**  
-  👉 [Scenario Based](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/oopspracticescenariobasedquestions/src/com)
+👉 [Scenario Based](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/oopspracticescenariobasedquestions/src/com)
   
 👉 [https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/sortingalgorithms](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/sortingalgorithms)
+
+---
+
+## Day 18 – Data Structures: Searching, StringBuffer, StringBuilder, File Handling
+(Date: 06-01-2026) (Focus: String Handling, Searching & File Handling)
+
+- Learned mutable string handling using StringBuffer and StringBuilder, along with their performance differences.
+- Studied efficient data searching methods such as linear search and binary search.
+- Practiced file handling with BufferedReader and focused on writing clean, optimized Java code following core Java best practices.
+
+## 🔗 Code Repository
+- **Scenario-Based OOPS Practice**  
+  👉 [Scenario Based](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/oopspracticescenariobasedquestions/src/com/LoanBuudy)
+  
+ 👉 [Stringbuffer, Stringbuilder, and Searching](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/searching)
 
 ---
