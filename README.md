@@ -42,11 +42,14 @@ BridgeLabz-Training/
 │   │  └── 📁 DSAConcepts/
 │   │       └── 📁 src/
 │   │           └── 📁 com/
-│   │               ├── 📁 linkedlist/
-│   │               └── 📁 sortingalgorithms/
-│   │               └── 📁 stringbuffer/
-│   │               └── 📁 stringbuilder/   
-│   │               └── 📁 stackqueueandhashmaps/      
+|   |               ├── 📁 linkedlist
+|   |               ├── 📁 sortingalgorithms
+|   |               ├── 📁 stackqueueandhashmaps
+|   |               ├── 📁 searching
+|   |               ├── 📁 stringbuffer
+|   |               ├── 📁 stringbuilder
+|   |               ├── 📁 filehandling
+|   |               └── 📁 algorithmruntimeanalysis    
 │   ├── 📁 leet-code-codebase/               
 │   └── 📁 scenario-based-codebase/           
 |
@@ -512,3 +515,12 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-
  👉 [Stringbuffer, Stringbuilder, and Searching](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/searching)
 
 ---
+
+## 📅 Day 19 – Data Structures: Time & Space Complexity
+(Date: 07-01-2026) (Focus: Analyzing Algorithm Efficiency)
+
+- Studied time and space complexity, explored common Big-O notations, and compared algorithms based on efficiency and scalability.
+- **Scenario-Based OOPS Practice**  
+  👉 [Scenario Based: parkease](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/oopspracticescenariobasedquestions/src/com/parkease)
+  
+🔗 **Code Link:** 👉 [Day 19 – Data Structures: Time & Space Complexity](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/algorithmruntimeanalysis)
