@@ -1,5 +1,5 @@
 # Week 3: Data Structures & Algorithm
-##  Day 15 – Java DSA: Linked List Best Practices
+##  Day 1 – Java DSA: Linked List Best Practices
 
 **Date:** 02-Jan-2026  
 **Focus:** Singly, Doubly & Circular Linked Lists
@@ -17,10 +17,12 @@ BridgeLabz-Training
 |   |           └── com
 |   |               ├── linkedlist
 |   |               ├── sortingalgorithms
-|   |               └── stackqueueandhashmaps
-|   |               └── searching
-|   |               └── stringbuffer
-|   |               └── stringbuilder
+|   |               ├── stackqueueandhashmaps
+|   |               ├── searching
+|   |               ├── stringbuffer
+|   |               ├── stringbuilder
+|   |               ├── filehandling
+|   |               └── algorithmruntimeanalysis
 |   ├── scenario-based
 |   |
 |   └── leet-code-codebase
@@ -43,7 +45,7 @@ BridgeLabz-Training
 [Java DSA Linked List Projects](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/linkedlist)
 
 
-#  Day 16 – Java DSA: Stack, Queue & HashMap
+#  Day 2 – Java DSA: Stack, Queue & HashMap
 
 **Date:** 03-Jan-2026  
 **Focus:** Stack, Queue & HashMap
@@ -61,7 +63,7 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-
 
 
 
-# Day 17 – Java DSA: Sorting Algorithms
+# Day 3 – Java DSA: Sorting Algorithms
 **Date:** 05-Jan-2026
 
 ## 🔹 Topics Covered
@@ -80,7 +82,7 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-
 
 ---
 
-## Day 18 – Data Structures: Searching, StringBuffer, StringBuilder, File Handling
+## Day 4 – Data Structures: Searching, StringBuffer, StringBuilder, File Handling
 (Date: 06-01-2026) (Focus: String Handling, Searching & File Handling)
 
 - Learned mutable string handling using StringBuffer and StringBuilder, along with their performance differences.
@@ -92,3 +94,9 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-
 👉 [Stringbuffer, Stringbuilder, and Searching](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/searching)
 
 ---
+## 📅 Day 5 – Data Structures: Time & Space Complexity
+(Date: 07-01-2026) (Focus: Analyzing Algorithm Efficiency)
+
+- Studied time and space complexity, explored common Big-O notations, and compared algorithms based on efficiency and scalability.
+
+🔗 **Code Link:** 👉 [Day 5 – Data Structures: Time & Space Complexity](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/algorithmruntimeanalysis)
