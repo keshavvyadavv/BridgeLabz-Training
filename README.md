@@ -1,5 +1,5 @@
 # Week 2: Object-oriented Programming Fundamental
-##  Day 9 – Java OOPS: Class & Object
+##  Day 1 – Java OOPS: Class & Object
 
 **(Date: 26-Dec-2025)**
 **(Focus: Core OOPS Fundamentals – Classes and Objects)**
@@ -13,10 +13,10 @@
 * Systematically organized all **Class & Object** programs under the `java-oops-practice` branch.
 
 🔗 *Code Link:*
-👉 [Day 9 – Class and Objects](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobjects/level1)
+👉 [Day 1 – Class and Objects](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobjects/level1)
 ---
 
- **Day 10 – Java OOPS: Constructors & Class-Level Concepts**
+ **Day 2 – Java OOPS: Constructors & Class-Level Concepts**
 *(Date: 27-Dec-2025 | Focus: Constructors, Instance vs Class Variables & Methods)*
 
 Dived deeper into **Java Constructors**, understanding how they play a crucial role in initializing objects at the time of creation.
@@ -38,11 +38,11 @@ Followed proper **naming conventions, indentation, and consistent formatting** a
 Systematically organized all constructor and static concept programs under the **`java-oops-practice`** branch for easy reference and scalability.
 
 🔗 **Code Link:**
-👉 *Day 10 – Constructors & Instance vs Class Concepts*
+👉 *Day 2 – Constructors & Instance vs Class Concepts*
 [https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructors/level1](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructors/level1)
 
 
- **Day 11 – Java OOPS: Core Java Keywords**  
+ **Day 3 – Java OOPS: Core Java Keywords**  
 **Date:** 29-Dec-2025  
 **Focus:** static, final, this, instanceof  
 
@@ -58,10 +58,10 @@ Systematically organized all constructor and static concept programs under the *
 - Organized all keyword-based programs systematically in the `java-oops-practice` branch.
 
 ### 🔗 Code Reference
-👉 **Day 11 – static, final, this, instanceof**  
+👉 **Day 3 – static, final, this, instanceof**  
 https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/javakeywords/level1
 
-##  Day 12 – Java OOPS: Data Modeling & Object Relationships
+##  Day 4 – Java OOPS: Data Modeling & Object Relationships
 **Date:** 30-Dec-2025  
 **Focus:** Data Modeling, Association, Aggregation & Composition  
 
@@ -80,35 +80,25 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/jav
 ### 🔗 Code Reference
  https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodeling/level1
 
-## Day 13 – Java OOPS: Inheritance
+## Day 5 – Java OOPS: Inheritance
 (Date: 31-Dec-2025) (Focus: Inheritance & Code Reusability in OOPS)
 
 -> Gained a clear understanding of Inheritance in Java and its role in promoting code reusability.
-
 -> Learned how superclass (parent) and subclass (child) are connected through inheritance.
-
 -> Practiced single inheritance to reuse and extend the features of an existing base class.
-
 -> Explored multilevel inheritance, where a class derives from another derived class.
-
 -> Implemented hierarchical inheritance to represent multiple subclasses inheriting from one common parent class.
-
 -> Used the extends keyword to create inheritance relationships between classes.
-
 -> Understood the concept of method overriding in inherited classes.
-
 -> Learned the importance of the super keyword for accessing parent class constructors and methods.
-
 -> Emphasized writing clean, readable, and well-structured OOPS-based code.
-
 -> Maintained proper naming conventions, indentation, and consistent formatting throughout the code.
-
 -> Systematically organized all inheritance-based programs in the java-oops-practice branch.
 
-🔗 Code Link: 👉 Day 13 – Inheritance
+🔗 Code Link: 👉 Day 5 – Inheritance
 https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance/level1
 
-## Day 14 – Java OOPS: Scenario-Driven Design & Core OOPS Principles
+## Day 6 – Java OOPS: Scenario-Driven Design & Core OOPS Principles
 
  **Date:** 01-Jan-2026  
  **Focus:** Encapsulation, Polymorphism, Abstract Classes & Interfaces  
