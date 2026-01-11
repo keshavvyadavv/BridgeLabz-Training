@@ -233,10 +233,10 @@ Real-world application of core OOPS concepts
 🔗 **Code Link:** 👉 [Day 11 – Scenario-Based OOPS Practice](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
 
 
-## 📅 Day 12 – Java OOPS: Advanced Scenario-Based Practice  
+## Day 12 – Java OOPS: Advanced Scenario-Based Practice  
 **Date:** 08-01-2026  
 
-### ✅ What I Practiced
+### What I Practiced
 - Advanced Java scenarios (**MediStore, TourMate**)  
 - Inheritance & Polymorphism for medicine & trip types  
 - Interfaces (`ISellable`, `IBookable`) for sales, booking & expiry tracking  
@@ -244,3 +244,19 @@ Real-world application of core OOPS concepts
 - Encapsulation to secure sensitive data and pricing logic  
 
 🔗 **Code Link:** 👉 [Day 12 – Scenario-Based OOPS Practice](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+
+## Day 13 – Java OOPS: Scenario-Based Practice  
+**Date:** 09-01-2026  
+- (Focus: Digital Platforms, Commerce & Learning Systems)
+### What I Practiced
+- Real-world Java scenarios (**Artify, FoodLoop, SkillForge**)  
+- Inheritance & Polymorphism for art types, food items & user roles  
+- Interfaces (`IPurchasable`, `IOrderable`, `ICertifiable`) for purchase, order & certification flows  
+- Operators for wallet deductions, order totals & grading calculations  
+- Encapsulation to secure licensing, stock, ratings & internal data  
+
+### Key Takeaway
+Clean, modular, and scalable OOPS design for real-world business logic  
+
+🔗 **Code Link:** 👉 [Day 13 – Scenario-Based OOPS Practice](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+
