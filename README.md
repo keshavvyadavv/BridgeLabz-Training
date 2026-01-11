@@ -226,3 +226,14 @@ Real-world application of core OOPS concepts
 🔗 **Code Link:**  
 https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based
 
+
+## Day 11 – Java OOPS: Scenario-Based Problem Solving  
+**Date:** 07-01-2026  
+- Java scenarios (**ParkEase, LoanBuddy, BookBazaar**)  
+- Core OOPS: Encapsulation, Inheritance, Abstraction, Polymorphism  
+- Interfaces & operators for charges, EMI, and discounts  
+- Clean, modular code with proper access control
+
+
+🔗 **Code Link:** 👉 [Day 11 – Scenario-Based OOPS Practice](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+
