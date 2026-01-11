@@ -168,3 +168,25 @@ Clean, modular, and reusable Java code following OOPS best practices.
 🔗 **Code Link:**  
 https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/oopspracticescenariobasedquestions/src/com/hospitalmanagement
 
+
+## Day 8 – Java OOPS: Scenario-Based Problem Solving  
+**Date:** 03-01-2026  
+
+### Focus
+Real-world application of advanced OOPS concepts  
+
+### What I Practiced
+- Scenario-based Java problems  
+- Ride-hailing backend (**CabbyGo**)  
+- Encapsulation of sensitive data  
+- Inheritance (Vehicle & Account hierarchies)  
+- Abstraction with interfaces  
+- Polymorphism via method overriding  
+- Constructors & operators for core logic  
+
+### Key Takeaway
+Clean, modular, and reusable Java code using OOPS best practices  
+
+🔗 **Code Link:**  
+https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based
+
