@@ -190,3 +190,22 @@ Clean, modular, and reusable Java code using OOPS best practices
 🔗 **Code Link:**  
 https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based
 
+
+## Day 9 – Java OOPS: Scenario-Based Problem Solving  
+**Date:** 05-01-2026  
+
+### Focus
+OOPS concepts through academic & e-commerce scenarios  
+
+### What I Practiced
+- Scenario-based Java problems  
+- Academic module **CampusConnect**  
+- Inheritance (`Person → Student, Faculty`, `Product → Perishable/Non-Perishable`)  
+- Encapsulation of grades & cart pricing  
+- Abstraction using interfaces  
+- Polymorphism via overridden methods  
+- Constructors for flexible setup  
+- Operators for GPA, cart total & discounts  
+
+🔗 **Code Link:**  
+https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based
