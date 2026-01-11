@@ -165,9 +165,7 @@ Applying OOPS concepts using real-world scenarios
 ### Key Takeaway
 Clean, modular, and reusable Java code following OOPS best practices.
 
-🔗 **Code Link:**  
-https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/oopspracticescenariobasedquestions/src/com/hospitalmanagement
-
+🔗 **Code Link:** 👉 [Day 7 – Scenario-Based OOPS Practice](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
 
 ## Day 8 – Java OOPS: Scenario-Based Problem Solving  
 **Date:** 03-01-2026  
@@ -187,8 +185,7 @@ Real-world application of advanced OOPS concepts
 ### Key Takeaway
 Clean, modular, and reusable Java code using OOPS best practices  
 
-🔗 **Code Link:**  
-https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based
+🔗 **Code Link:** 👉 [Day 8 – Scenario-Based OOPS Practice](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
 
 
 ## Day 9 – Java OOPS: Scenario-Based Problem Solving  
@@ -207,8 +204,7 @@ OOPS concepts through academic & e-commerce scenarios
 - Constructors for flexible setup  
 - Operators for GPA, cart total & discounts  
 
-🔗 **Code Link:**  
-https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based
+🔗 **Code Link:** 👉 [Day 9 – Scenario-Based OOPS Practice](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
 
 ## Day 10 – Java OOPS: Scenario-Based Problem Solving  
 **Date:** 06-01-2026  
@@ -223,8 +219,7 @@ Real-world application of core OOPS concepts
 - Abstraction using interfaces (`IInteractable`, `ISchedulable`, `ICertifiable`, `ITrackable`) 
 - Polymorphism via behavior-specific method overrides  
 
-🔗 **Code Link:**  
-https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based
+🔗 **Code Link:** 👉 [Day 10 – Scenario-Based OOPS Practice](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
 
 
 ## Day 11 – Java OOPS: Scenario-Based Problem Solving  
@@ -237,3 +232,15 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/jav
 
 🔗 **Code Link:** 👉 [Day 11 – Scenario-Based OOPS Practice](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
 
+
+## 📅 Day 12 – Java OOPS: Advanced Scenario-Based Practice  
+**Date:** 08-01-2026  
+
+### ✅ What I Practiced
+- Advanced Java scenarios (**MediStore, TourMate**)  
+- Inheritance & Polymorphism for medicine & trip types  
+- Interfaces (`ISellable`, `IBookable`) for sales, booking & expiry tracking  
+- Operators for stock, discounts & total trip budget calculations  
+- Encapsulation to secure sensitive data and pricing logic  
+
+🔗 **Code Link:** 👉 [Day 12 – Scenario-Based OOPS Practice](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
