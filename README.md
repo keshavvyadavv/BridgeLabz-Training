@@ -209,3 +209,20 @@ OOPS concepts through academic & e-commerce scenarios
 
 🔗 **Code Link:**  
 https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based
+
+## Day 10 – Java OOPS: Scenario-Based Problem Solving  
+**Date:** 06-01-2026  
+
+### Focus
+Real-world application of core OOPS concepts  
+
+### What I Practiced
+- Scenario-based Java projects (**PetPal, EventEase, EduMentor, FitTrack**)  
+- Encapsulation of sensitive data (pet mood, health data, pricing, quiz answers)  
+- Inheritance for real hierarchies (Dog/Cat/Bird, Event types, Learner/Instructor)  
+- Abstraction using interfaces (`IInteractable`, `ISchedulable`, `ICertifiable`, `ITrackable`) 
+- Polymorphism via behavior-specific method overrides  
+
+🔗 **Code Link:**  
+https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based
+
