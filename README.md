@@ -138,3 +138,33 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/jav
 - **Java OOPS Concepts – Encapsulation & Polymorphism**  
   👉 [Encapsulation & Polymorphism](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulationandpolymorphism)
 
+
+## Day 7 – Java OOPS: Scenario-Based Problem Solving  
+**Date:** 02-01-2026  
+
+### Focus
+Applying OOPS concepts using real-world scenarios
+
+### What I Practiced
+- Scenario-based Java problems  
+- Helper methods for clean & reusable logic  
+- Encapsulation with private data + public methods  
+- Inheritance for real-world hierarchies  
+- Abstraction using interfaces  
+- Polymorphism via method overriding  
+- Constructors (default, parameterized, overloaded)  
+- Operators for billing, GPA, discounts, etc.
+
+### Mini Projects / Scenarios
+- Hospital Management  
+- Vehicle Rental System  
+- University Enrollment  
+- E-Wallet  
+- Smart Home Automation  
+
+### Key Takeaway
+Clean, modular, and reusable Java code following OOPS best practices.
+
+🔗 **Code Link:**  
+https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/oopspracticescenariobasedquestions/src/com/hospitalmanagement
+
