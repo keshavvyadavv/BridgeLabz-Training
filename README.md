@@ -138,3 +138,125 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/jav
 - **Java OOPS Concepts – Encapsulation & Polymorphism**  
   👉 [Encapsulation & Polymorphism](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulationandpolymorphism)
 
+
+## Day 7 – Java OOPS: Scenario-Based Problem Solving  
+**Date:** 02-01-2026  
+
+### Focus
+Applying OOPS concepts using real-world scenarios
+
+### What I Practiced
+- Scenario-based Java problems  
+- Helper methods for clean & reusable logic  
+- Encapsulation with private data + public methods  
+- Inheritance for real-world hierarchies  
+- Abstraction using interfaces  
+- Polymorphism via method overriding  
+- Constructors (default, parameterized, overloaded)  
+- Operators for billing, GPA, discounts, etc.
+
+### Mini Projects / Scenarios
+- Hospital Management  
+- Vehicle Rental System  
+- University Enrollment  
+- E-Wallet  
+- Smart Home Automation  
+
+### Key Takeaway
+Clean, modular, and reusable Java code following OOPS best practices.
+
+🔗 **Code Link:** 👉 [Day 7 – Scenario-Based OOPS Practice](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+
+## Day 8 – Java OOPS: Scenario-Based Problem Solving  
+**Date:** 03-01-2026  
+
+### Focus
+Real-world application of advanced OOPS concepts  
+
+### What I Practiced
+- Scenario-based Java problems  
+- Ride-hailing backend (**CabbyGo**)  
+- Encapsulation of sensitive data  
+- Inheritance (Vehicle & Account hierarchies)  
+- Abstraction with interfaces  
+- Polymorphism via method overriding  
+- Constructors & operators for core logic  
+
+### Key Takeaway
+Clean, modular, and reusable Java code using OOPS best practices  
+
+🔗 **Code Link:** 👉 [Day 8 – Scenario-Based OOPS Practice](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+
+
+## Day 9 – Java OOPS: Scenario-Based Problem Solving  
+**Date:** 05-01-2026  
+
+### Focus
+OOPS concepts through academic & e-commerce scenarios  
+
+### What I Practiced
+- Scenario-based Java problems  
+- Academic module **CampusConnect**  
+- Inheritance (`Person → Student, Faculty`, `Product → Perishable/Non-Perishable`)  
+- Encapsulation of grades & cart pricing  
+- Abstraction using interfaces  
+- Polymorphism via overridden methods  
+- Constructors for flexible setup  
+- Operators for GPA, cart total & discounts  
+
+🔗 **Code Link:** 👉 [Day 9 – Scenario-Based OOPS Practice](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+
+## Day 10 – Java OOPS: Scenario-Based Problem Solving  
+**Date:** 06-01-2026  
+
+### Focus
+Real-world application of core OOPS concepts  
+
+### What I Practiced
+- Scenario-based Java projects (**PetPal, EventEase, EduMentor, FitTrack**)  
+- Encapsulation of sensitive data (pet mood, health data, pricing, quiz answers)  
+- Inheritance for real hierarchies (Dog/Cat/Bird, Event types, Learner/Instructor)  
+- Abstraction using interfaces (`IInteractable`, `ISchedulable`, `ICertifiable`, `ITrackable`) 
+- Polymorphism via behavior-specific method overrides  
+
+🔗 **Code Link:** 👉 [Day 10 – Scenario-Based OOPS Practice](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+
+
+## Day 11 – Java OOPS: Scenario-Based Problem Solving  
+**Date:** 07-01-2026  
+- Java scenarios (**ParkEase, LoanBuddy, BookBazaar**)  
+- Core OOPS: Encapsulation, Inheritance, Abstraction, Polymorphism  
+- Interfaces & operators for charges, EMI, and discounts  
+- Clean, modular code with proper access control
+
+
+🔗 **Code Link:** 👉 [Day 11 – Scenario-Based OOPS Practice](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+
+
+## Day 12 – Java OOPS: Advanced Scenario-Based Practice  
+**Date:** 08-01-2026  
+
+### What I Practiced
+- Advanced Java scenarios (**MediStore, TourMate**)  
+- Inheritance & Polymorphism for medicine & trip types  
+- Interfaces (`ISellable`, `IBookable`) for sales, booking & expiry tracking  
+- Operators for stock, discounts & total trip budget calculations  
+- Encapsulation to secure sensitive data and pricing logic  
+
+🔗 **Code Link:** 👉 [Day 12 – Scenario-Based OOPS Practice](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+
+## Day 13 – Java OOPS: Scenario-Based Practice  
+**Date:** 09-01-2026  
+- (Focus: Digital Platforms, Commerce & Learning Systems)
+### What I Practiced
+- Real-world Java scenarios (**Artify, FoodLoop, SkillForge**)  
+- Inheritance & Polymorphism for art types, food items & user roles  
+- Interfaces (`IPurchasable`, `IOrderable`, `ICertifiable`) for purchase, order & certification flows  
+- Operators for wallet deductions, order totals & grading calculations  
+- Encapsulation to secure licensing, stock, ratings & internal data  
+
+### Key Takeaway
+Clean, modular, and scalable OOPS design for real-world business logic  
+
+🔗 **Code Link:** 👉 [Day 13 – Scenario-Based OOPS Practice](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
+
