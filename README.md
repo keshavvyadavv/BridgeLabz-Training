@@ -111,4 +111,22 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-
 
 🔗 **Code Link:** 👉 [Day 6 - Scenario-Based Data Structures](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/DsaScenarioBasedPractice/src/com)
 
+--
+
+
+## Day 7 – Scenario-Based DSA Problems  
+**Date:** 12-Jan-2026  
+
+### Topics Covered  
+- Applied DSA to real-world scenarios  
+
+### Implementations  
+- **CallCenter** –  Queue + HashMap
+- **TrainCompanion** - Doubly Linked List
+- **TextEditor** – Stack
+- **TrafficManager** - Circular Linked List + Queue
+
+🔗 **Code:**  
+👉 [Scenario-Based DSA Implementations](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/DsaScenarioBasedPractice/src/com)
+
 
