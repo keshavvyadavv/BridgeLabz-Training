@@ -480,7 +480,22 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-
 
 ---
 
-# Day 17 – Java DSA: Sorting Algorithms
+## 📅 Day 17 – Stack, Queue & Hashing Fundamentals  
+**Date:** 04-Jan-2026  
+
+### 📘 Topics Covered  
+- **Stack (LIFO):** push, pop, peek; recursion, undo/redo  
+- **Queue (FIFO):** offer, poll; `LinkedList`, `PriorityQueue`, `ArrayDeque`  
+- **Implementation:** Ticket Counter using Queue  
+- **Applications:** BFS, task scheduling, request handling  
+- **HashMap:** key–value storage, core methods, word frequency, internals  
+
+🔗 **Code:**  
+👉 [Stack, Queue & HashMap Implementations](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/stackqueueandhashmaps)
+
+---
+
+# Day 18 – Java DSA: Sorting Algorithms
 **Date:** 05-Jan-2026
 
 ## 🔹 Topics Covered
@@ -501,7 +516,7 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-
 
 ---
 
-## Day 18 – Data Structures: Searching, StringBuffer, StringBuilder, File Handling
+## Day 19 – Data Structures: Searching, StringBuffer, StringBuilder, File Handling
 (Date: 06-01-2026) (Focus: String Handling, Searching & File Handling)
 
 - Learned mutable string handling using StringBuffer and StringBuilder, along with their performance differences.
@@ -516,7 +531,7 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-
 
 ---
 
-## 📅 Day 19 – Data Structures: Time & Space Complexity
+## Day 20 – Data Structures: Time & Space Complexity
 (Date: 07-01-2026) (Focus: Analyzing Algorithm Efficiency)
 
 - Studied time and space complexity, explored common Big-O notations, and compared algorithms based on efficiency and scalability.
@@ -524,3 +539,18 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-
   👉 [Scenario Based: parkease](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/oopspracticescenariobasedquestions/src/com/parkease)
   
 🔗 **Code Link:** 👉 [Day 19 – Data Structures: Time & Space Complexity](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/algorithmruntimeanalysis)
+
+---
+
+## Day 21 – Real-World Scenario-Based OOP Problems  
+**Date:** 08-Jan-2026  
+
+###  Topics Covered  
+- Implemented real-world OOP scenarios  
+- Applied Encapsulation, Inheritance & Polymorphism  
+- Built scalable, modular designs  
+- Improved system design & interview readiness  
+
+🔗 **Code:**  
+👉 [Scenario-Based OOP Implementations](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/oopspracticescenariobasedquestions/src/com)
+
