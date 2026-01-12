@@ -554,3 +554,17 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-
 🔗 **Code:**  
 👉 [Scenario-Based OOP Implementations](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/oopspracticescenariobasedquestions/src/com)
 
+## Day 22 – Scenario-Based DSA Problems  
+**Date:** 10-Jan-2026  
+
+### Topics Covered  
+- Applied DSA to real-world scenarios  
+- Focused on efficient data structure selection  
+
+### Implementations  
+- **BookShelf:** HashMap + LinkedList  
+- **BrowserBuddy:** Doubly Linked List + Stack  
+- **AmbulanceRoute:** Circular Linked List  
+
+🔗 **Code:**  
+👉 [Scenario-Based DSA Implementations](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/DsaScenarioBasedPractice/src/com)
