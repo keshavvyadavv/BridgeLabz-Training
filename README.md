@@ -29,7 +29,7 @@ BridgeLabz-Training
 |
 └── README.md
 ```
-## 📝 Learnings & Best Practices
+##  Learnings & Best Practices
 
 - Maintained **head & tail pointers** for efficient access to first and last nodes.  
 - Performed **null checks** before operations to avoid runtime errors.  
@@ -94,9 +94,39 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-
 👉 [Stringbuffer, Stringbuilder, and Searching](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/searching)
 
 ---
-## 📅 Day 5 – Data Structures: Time & Space Complexity
+## Day 5 – Data Structures: Time & Space Complexity
 (Date: 07-01-2026) (Focus: Analyzing Algorithm Efficiency)
 
 - Studied time and space complexity, explored common Big-O notations, and compared algorithms based on efficiency and scalability.
 
 🔗 **Code Link:** 👉 [Day 5 – Data Structures: Time & Space Complexity](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/algorithmruntimeanalysis)
+
+
+ ## 6 – Real-World Scenario-Based DSA Problems
+(Date: 10-Jan-2026)
+
+**BookShelf** – HashMap + LinkedList 
+**BrowserBuddy** – Doubly Linked List 
+**AmbulanceRoute** – Circular Linked List 
+
+🔗 **Code Link:** 👉 [Day 6 - Scenario-Based Data Structures](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/DsaScenarioBasedPractice/src/com)
+
+--
+
+
+## Day 7 – Scenario-Based DSA Problems  
+**Date:** 12-Jan-2026  
+
+### Topics Covered  
+- Applied DSA to real-world scenarios  
+
+### Implementations  
+- **CallCenter** –  Queue + HashMap
+- **TrainCompanion** - Doubly Linked List
+- **TextEditor** – Stack
+- **TrafficManager** - Circular Linked List + Queue
+
+🔗 **Code:**  
+👉 [Scenario-Based DSA Implementations](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/DsaScenarioBasedPractice/src/com)
+
+
