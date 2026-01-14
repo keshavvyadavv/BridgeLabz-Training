@@ -130,3 +130,19 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-
 👉 [Scenario-Based DSA Implementations](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/DsaScenarioBasedPractice/src/com)
 
 
+
+## Day 8 – Scenario-Based DSA Problems  
+**Date:** 13-Jan-2026  
+
+### Topics Covered  
+- Applied DSA to real-world scenarios  
+
+### Implementations  
+- **SmartCheckout** - Supermarket Billing Queue (Queue + HashMap)
+- **ParcelTracker** - Delivery Chain Management (Singly Linked List)
+- **ExamProctor** - Online Exam Review System (Stack + HashMap + Functions)
+
+🔗 **Code:**  
+👉 [Scenario-Based DSA Implementations](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/DsaScenarioBasedPractice/src/com)
+
+
