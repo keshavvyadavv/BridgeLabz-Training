@@ -260,3 +260,19 @@ Clean, modular, and scalable OOPS design for real-world business logic
 
 🔗 **Code Link:** 👉 [Day 13 – Scenario-Based OOPS Practice](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based)
 
+-- 
+
+## Day 14 – Scenario-Based DSA Problems  
+**Date:** 12-Jan-2026  
+
+### Topics Covered  
+- Applied OOPs to real-world scenarios  
+
+### Implementations  
+- **HomeNest** – Smart Home Device Manager
+- **BudgetWise** – Personal Finance Tracker
+- **GameBox** – Mobile Game Distribution Platform
+
+🔗 **Code:**  
+👉 [Scenario-Based OOPs Implementations](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/oopspracticescenariobasedquestions/src/com)
+
