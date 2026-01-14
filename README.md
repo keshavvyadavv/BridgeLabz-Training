@@ -276,3 +276,16 @@ Clean, modular, and scalable OOPS design for real-world business logic
 🔗 **Code:**  
 👉 [Scenario-Based OOPs Implementations](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/oopspracticescenariobasedquestions/src/com)
 
+--
+
+## Day 15 – Scenario-Based DSA Problems  
+**Date:** 13-Jan-2026  
+
+### Topics Covered  
+- Applied OOPs to real-world scenarios  
+
+### Implementations  
+- **Bird Sanctuary – Java OOP Scenario**
+- **PayXpress** – Utility Bill Payment System
+
+👉 [Scenario-Based OOPs Implementations](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/oopspracticescenariobasedquestions/src/com)
