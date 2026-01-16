@@ -208,3 +208,39 @@ BridgeLabz-Training
 
 🔗 *Code Link:*  
 👉 [Day 8– Extras & Advanced Practice ](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
+
+
+## Day 9 – Core Java Scenario-Based Problem Statements  
+**Date:** 24-Dec-2025  
+
+### Overview
+Focused on real-world scenario-based programming using **Core Java** and basic algorithmic problem solving (LeetCode).  
+Goal: Strengthen logical thinking, control flow, and problem-solving skills.
+
+### Topics Covered
+- `if–else` and `switch-case`  
+- Loops: `for`, `while`  
+- Ternary operator  
+- User input handling  
+- Basic algorithmic thinking & problem-solving with constraints  
+
+### Scenario-Based Problems
+
+1️ **Election Booth Manager**  
+- Inputs voter age & checks eligibility (≥18)  
+- Records votes (1, 2, 3)  
+- Loop for multiple voters; exit with special code  
+**Concepts:** if, loops, decision making  
+
+2️ **Metro Smart Card Fare Deduction**  
+- Accepts distance travelled  
+- Calculates fare with ternary operator  
+- Deducts fare from card balance until exhausted or quit  
+**Concepts:** ternary operator, loops, arithmetic  
+
+3️ **Raj’s Result Generator**  
+- Inputs marks of 5 subjects  
+- Calculates average and assigns grades using `switch`  
+- Iterates subjects with `for` loop  
+**Concepts:** for-loop, switch-case, calculations  
+
