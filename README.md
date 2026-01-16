@@ -626,7 +626,7 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-
 - **ZipZipMart** – Daily Sales Summary Report 
 - **EventManager** – Ticket Price Optimizer 
 - **ExamCell** – Student Rank Generator
-- 
+- **Generics** - Type Parameters,Generic Classes,Generic Methods,Bounded Type Parameters,Wildcards
 
 🔗 **Code:**  
 👉 [Scenario-Based DSA Implementations](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/DsaScenarioBasedPractice/src/com)
