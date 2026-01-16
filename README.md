@@ -612,20 +612,24 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-
 👉 [Scenario-Based OOPs Implementations](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/oopspracticescenariobasedquestions/src/com)
 
 
-# Week 4 : Collections
+# Week 4 : Java Collections
 ## Day 25 – Scenario-Based DSA Problems  
 **Date:** 15-Jan-2026  
 
 ### Topics Covered  
-- Applied DSA to real-world scenarios  
+- Applied DSA to real-world scenarios
+- Generics
 
 ### Implementations  
 - **HospitalQueue** – Patient Sorting by Criticality
 - **SmartShelf** – Real-Time Book Arrangement
 - **ZipZipMart** – Daily Sales Summary Report 
 - **EventManager** – Ticket Price Optimizer 
-- **ExamCell** – Student Rank Generator 
+- **ExamCell** – Student Rank Generator
+- 
 
 🔗 **Code:**  
 👉 [Scenario-Based DSA Implementations](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/DsaScenarioBasedPractice/src/com)
+👉 [Java Collection Generics ](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionConcepts/src/com/generic)
+
 
