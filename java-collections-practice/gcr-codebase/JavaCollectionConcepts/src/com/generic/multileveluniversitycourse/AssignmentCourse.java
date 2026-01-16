@@ -1,4 +1,4 @@
-package com.multileveluniversitycourse;
+package com.generic.multileveluniversitycourse;
 
 class AssignmentCourse extends CourseType {
     private int totalAssignments;

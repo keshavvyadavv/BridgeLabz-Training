@@ -1,4 +1,4 @@
-package com.multileveluniversitycourse;
+package com.generic.multileveluniversitycourse;
 
 class ResearchCourse extends CourseType {
     private String researchTopic;

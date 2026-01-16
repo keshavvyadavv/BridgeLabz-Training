@@ -1,4 +1,4 @@
-package com.multileveluniversitycourse;
+package com.generic.multileveluniversitycourse;
 //create University system
 public class UniversitySystem {
     public static void main(String[] args) {

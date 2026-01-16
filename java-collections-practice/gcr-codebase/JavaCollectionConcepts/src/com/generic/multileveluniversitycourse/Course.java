@@ -1,4 +1,4 @@
-package com.multileveluniversitycourse;
+package com.generic.multileveluniversitycourse;
 
 import java.util.ArrayList;
 import java.util.List;

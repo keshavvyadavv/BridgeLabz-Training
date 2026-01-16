@@ -1,4 +1,4 @@
-package com.dynamiconlinemarketplace;
+package com.generic.dynamiconlinemarketplace;
 
 public class Marketplace {
 	public static void main(String[] args) {

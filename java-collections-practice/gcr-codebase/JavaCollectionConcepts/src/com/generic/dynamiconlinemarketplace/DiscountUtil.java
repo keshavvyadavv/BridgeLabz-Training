@@ -1,4 +1,4 @@
-package com.dynamiconlinemarketplace;
+package com.generic.dynamiconlinemarketplace;
 
 public class DiscountUtil {
 	public static <T extends Product<?>> void applyDiscount(T product, double percent) {
