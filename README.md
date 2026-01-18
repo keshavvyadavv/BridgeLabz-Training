@@ -635,7 +635,7 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-
 --
 
 ## Day 26 - List Interface, mapinterface, queueinterface, and setinterface
-(Date - 16/01/2026)
+**Date:** 16-Jan-2026 
 
 - Overview of Collections Framework
 - List Interface and Implementing Classes
@@ -653,4 +653,15 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-
 👉 [Java Collection queueinterface](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionConcepts/src/com/queueinterface)
 👉 [Java Collection setinterface](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionConcepts/src/com/setinterface)
 
+---
 
+## Day 27 - Real-world scenario-based problems involving sorting algorithms
+**Date:** 17-Jan-2026 
+
+- **FleetManager** - Vehicle Maintenance Scheduler
+- **ArtExpo** – Sort Artists by Registration Time
+- **SmartLibrary** – Auto-Sort Borrowed Books
+- **IceCreamRush** – Sorting Flavors by Popularity
+
+🔗 **Code:**  
+👉 [Scenario-Based DSA Implementations](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/DsaScenarioBasedPractice/src/com)
