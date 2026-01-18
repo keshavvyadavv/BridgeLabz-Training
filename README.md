@@ -175,3 +175,15 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-
 🔗 **Code:**  
 👉 [Scenario-Based DSA Implementations](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/DsaScenarioBasedPractice/src/com)
 
+---
+
+## Day 11 - Real-world scenario-based problems involving sorting algorithms
+**Date:** 17-Jan-2026 
+
+- **FleetManager** - Vehicle Maintenance Scheduler
+- **ArtExpo** – Sort Artists by Registration Time
+- **SmartLibrary** – Auto-Sort Borrowed Books
+- **IceCreamRush** – Sorting Flavors by Popularity
+
+🔗 **Code:**  
+👉 [Scenario-Based DSA Implementations](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/DsaScenarioBasedPractice/src/com)
