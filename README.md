@@ -662,6 +662,9 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-
 - **ArtExpo** – Sort Artists by Registration Time
 - **SmartLibrary** – Auto-Sort Borrowed Books
 - **IceCreamRush** – Sorting Flavors by Popularity
+- **Bag-n-Ball Organizer**
+- **GeoMeasure**
 
 🔗 **Code:**  
 👉 [Scenario-Based DSA Implementations](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/DsaScenarioBasedPractice/src/com)
+👉 [Scenario-Based OOPs Implementations](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/oopspracticescenariobasedquestions/src/com)
