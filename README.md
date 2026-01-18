@@ -163,3 +163,15 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-
 🔗 **Code:**  
 👉 [Scenario-Based DSA Implementations](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/DsaScenarioBasedPractice/src/com)
 
+---
+
+## Day 10 - Scenario-Based DSA Problems 
+**Date:** 16-Jan-2026 
+
+- **RoboWarehouse** - Shelf Loading Robot
+- **CinemaHouse** – Movie Time Sorting
+- **CropMonitor** – Sensor Data Ordering
+
+🔗 **Code:**  
+👉 [Scenario-Based DSA Implementations](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/DsaScenarioBasedPractice/src/com)
+
