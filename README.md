@@ -303,3 +303,17 @@ Clean, modular, and scalable OOPS design for real-world business logic
 - **GeoMeasure**
 
 👉 [Scenario-Based OOPs Implementations](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/oopspracticescenariobasedquestions/src/com)
+
+
+---
+
+## Day 17 – Scenario-Based DSA Problems  
+**Date:** 19-Jan-2026  
+
+### Topics Covered  
+- Applied OOPs to real-world scenarios  
+
+### Implementations  
+- **Address Book System**
+
+👉 [Scenario-Based OOPs Implementations](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/oopspracticescenariobasedquestions/src/com)
