@@ -187,3 +187,15 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-
 
 🔗 **Code:**  
 👉 [Scenario-Based DSA Implementations](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/DsaScenarioBasedPractice/src/com)
+
+---
+
+## Day 12 - Real-world scenario-based problems involving sorting algorithms
+**Date:** 19-Jan-2026 
+
+- **EduResults** – Rank Sheet Generator
+- **FlashDealz** – Product Sorting by Discount
+- **FitnessTracker** – Daily Step Count Ranking
+
+🔗 **Code:**  
+👉 [Scenario-Based DSA Implementations](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/DsaScenarioBasedPractice/src/com)
