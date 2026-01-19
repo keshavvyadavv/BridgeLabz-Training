@@ -1,4 +1,4 @@
-package budgetwise;
+package com.budgetwise;
 
 import java.util.HashMap;
 //Create BudgetWiseApp 

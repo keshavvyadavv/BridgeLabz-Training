@@ -1,4 +1,4 @@
-package budgetwise;
+package com.budgetwise;
 
 import java.time.LocalDate;
 //Create a transaction class 

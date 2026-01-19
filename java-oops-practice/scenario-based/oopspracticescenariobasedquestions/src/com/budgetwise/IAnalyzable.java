@@ -1,4 +1,4 @@
-package budgetwise;
+package com.budgetwise;
 
 public interface IAnalyzable {
     void generateReport();
