@@ -199,3 +199,16 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-
 
 🔗 **Code:**  
 👉 [Scenario-Based DSA Implementations](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/DsaScenarioBasedPractice/src/com)
+
+---
+
+
+## Day 13 - Real-world scenario-based problems involving sorting algorithms
+**Date:** 20-Jan-2026 
+
+- **MovieTime** – Theater Show Listings
+- **FoodFest** – Sorting Stalls by Customer Footfall
+- **GamerZone** – High Score Ranking System 
+
+🔗 **Code:**  
+👉 [Scenario-Based DSA Implementations](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/DsaScenarioBasedPractice/src/com)
