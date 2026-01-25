@@ -15,7 +15,6 @@ public class ReadLargeFile {
 
             //read file line by line
             while ((line = br.readLine()) != null) {
-
                 //Case-insensitive check for "error"
                 if (line.toLowerCase().contains("error")) {
                     System.out.println(line);
