@@ -709,3 +709,14 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-
 🔗 **Code:**  
 👉 [Scenario-Based DSA Implementations](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/DsaScenarioBasedPractice/src/com)
 
+---
+
+## Day 31 – Java File Handling & I/O Streams (19-01-2026)
+
+- Studied Java file handling using byte and character streams  
+- Learned basic vs buffered streams and performance benefits  
+- Practiced console input and file writing with reader/writer classes  
+
+🔗 **Code Link:** [Day 31 – Java File Handling & Streams Practice](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionConcepts/src/com/streams)
+
+---
