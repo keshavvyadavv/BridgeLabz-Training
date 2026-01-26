@@ -6,7 +6,7 @@
 🔗 **Code:**  
 👉 [Java Collection Generics ](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionConcepts/src/com/generic)
 
---
+---
 
 ## Day 2 - List Interface
 (Date - 16/01/2026)
@@ -24,4 +24,47 @@ Found the Nth element from the end in a LinkedList without size calculation.
 👉 [Java Collection queueinterface](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionConcepts/src/com/queueinterface)
 👉 [Java Collection setinterface](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionConcepts/src/com/setinterface)
 
+---
+
+## Day 3 – Java File Handling & I/O Streams (19-01-2026)
+
+- Studied Java file handling using byte and character streams  
+- Learned basic vs buffered streams and performance benefits  
+- Practiced console input and file writing with reader/writer classes  
+
+🔗 **Code Link:** [Day 3 – Java File Handling & Streams Practice](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionConcepts/src/com/streams)
+
+---
+
+## Day 4 – Java: Exception Handling (20-01-2026)
+
+- Studied exception handling to manage runtime errors safely  
+- Learned `try`, `catch`, `finally`, `throw`, and `throws` usage  
+- Explored checked vs unchecked exceptions and common runtime errors  
+- Practiced creating and using custom exceptions  
+- Focused on writing robust and maintainable code  
+
+🔗 **Code Link:** [Day 4 – Exception Handling Practice](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionConcepts/src/com/exceptions)
+
+---
+
+## Day 5 – Java Fundamentals: Regex & JUnit (21-01-2026)
+
+- Studied regex basics, metacharacters, and quantifiers  
+- Implemented regex use cases like email, password, and phone validation  
+- Worked with Java Regex API using `Pattern` and `Matcher`
+  
+🔗 **Code Link:** [Day 5 – JUnit](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionConcepts/src/com/junit)
+[Day 5 – regex](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionConcepts/src/com/regex)
+
+---
+
+## Day 6 – Reflection & Annotations (22-01-2026)
+
+- Studied Java Reflection for runtime class inspection  
+- Learned dynamic method access and metadata analysis  
+- Explored built-in and custom annotations  
+- Used reflection to process annotations at runtime  
+
+🔗 **Code Link:**  [Day 6 – Reflection & Annotations Practice](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionConcepts/src/com/reflection)
 
