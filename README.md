@@ -45,3 +45,14 @@ Found the Nth element from the end in a LinkedList without size calculation.
 - Focused on writing robust and maintainable code  
 
 🔗 **Code Link:** [Day 4 – Exception Handling Practice](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionConcepts/src/com/exceptions)
+
+---
+
+## Day 5 – Java Fundamentals: Regex & JUnit (21-01-2026)
+
+- Studied regex basics, metacharacters, and quantifiers  
+- Implemented regex use cases like email, password, and phone validation  
+- Worked with Java Regex API using `Pattern` and `Matcher`
+  
+🔗 **Code Link:** [Day 5 – JUnit](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionConcepts/src/com/junit)
+[Day 5 – regex](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionConcepts/src/com/regex)
