@@ -743,3 +743,13 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-
 [Day 5 – regex](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionConcepts/src/com/regex)
 
 ---
+
+## Day 34 – Reflection & Annotations (22-01-2026)
+
+- Studied Java Reflection for runtime class inspection  
+- Learned dynamic method access and metadata analysis  
+- Explored built-in and custom annotations  
+- Used reflection to process annotations at runtime  
+
+🔗 **Code Link:**  [Day 34 – Reflection & Annotations Practice](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionConcepts/src/com/reflection)
+
