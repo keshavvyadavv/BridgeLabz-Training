@@ -81,4 +81,12 @@ Found the Nth element from the end in a LinkedList without size calculation.
 
 🔗 **Code Link:**  [Day 7 - Scenario-Based Questions](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based/CollectionsScenarioBasedPractice/src/com)
 
+---
 
+## Day 8 – Java Collections Practice  
+**Date:** 24-01-2026  
+
+- Implemented real-world Java scenarios using **Collections, I/O, Regex, and Generics**.  
+- Built **MedInventory, ChatLogParser, SongVault, and ExamResultUploader**.  
+
+🔗 **Code Link:**  [Day 8 - Scenario-Based Questions](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based/CollectionsScenarioBasedPractice/src/com)
