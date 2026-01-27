@@ -26,11 +26,9 @@ public class DatabaseToCSVReport {
 				ResultSet resultSet = statement.executeQuery(query);
 				BufferedWriter writer = new BufferedWriter(new FileWriter(outputFile))) {
 
-			// 1️⃣ Write CSV header
 			writer.write("Employee ID,Name,Department,Salary");
 			writer.newLine();
 
-			// 2️⃣ Write records
 			while (resultSet.next()) {
 
 				int id = resultSet.getInt("id");
