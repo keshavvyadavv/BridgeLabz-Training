@@ -753,3 +753,21 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-
 
 🔗 **Code Link:**  [Day 34 – Reflection & Annotations Practice](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionConcepts/src/com/reflection)
 
+---
+
+# Week 5: Java IOStreams
+
+## Day 35 – Java File Handling: CSV Data Processing  
+**Date:** 23-01-2026  
+
+**Focus:** CSV Handling from Basics to Advanced Scenarios
+
+- Read, write, and count records in CSV files  
+- Filter, search, update, and sort CSV data  
+- Validate data using regex and detect duplicates  
+- Convert CSV records into Java objects  
+  
+🔗 **Code:** [CSV Data Handling Practice](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/JavaIOStreamConcepts/src/main/java/com/iostreams)
+
+---
+
