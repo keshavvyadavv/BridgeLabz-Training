@@ -68,3 +68,17 @@ Found the Nth element from the end in a LinkedList without size calculation.
 
 🔗 **Code Link:**  [Day 6 – Reflection & Annotations Practice](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionConcepts/src/com/reflection)
 
+---
+
+## Day 7 – Scenario-Based Practice  
+**Date:** 23-01-2026  
+
+### Work Done
+- ResumeAnalyzer – Extracted candidate data using regex and maps  
+- TravelLog – Trip storage and analysis using serialization  
+- FeedbackGuru – Feedback processing with generics  
+- CodeRepoCleaner & ExamScanner – File scanning, validation, and ranking  
+
+🔗 **Code Link:**  [Day 7 - Scenario-Based Questions](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based/CollectionsScenarioBasedPractice/src/com)
+
+
