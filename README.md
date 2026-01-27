@@ -765,7 +765,13 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-
 - Read, write, and count records in CSV files  
 - Filter, search, update, and sort CSV data  
 - Validate data using regex and detect duplicates  
-- Convert CSV records into Java objects  
+- Convert CSV records into Java objects
+- ResumeAnalyzer – Extracted candidate data using regex and maps  
+- TravelLog – Trip storage and analysis using serialization  
+- FeedbackGuru – Feedback processing with generics  
+- CodeRepoCleaner & ExamScanner – File scanning, validation, and ranking  
+
+🔗 **Code Link:**  [Scenario-Based Questions](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based/CollectionsScenarioBasedPractice/src/com)
   
 🔗 **Code:** [CSV Data Handling Practice](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/JavaIOStreamConcepts/src/main/java/com/iostreams)
 
@@ -778,5 +784,12 @@ Focus: Working with JSON Data in Java Applications
 - Studied JSON (JavaScript Object Notation) as a lightweight data exchange format.
 - Practiced reading, parsing, and writing JSON data in Java.
 - Worked with JSON objects and arrays for structured data manipulation.
+- Implemented real-world Java scenarios using **Collections, I/O, Regex, and Generics**.  
+- Built **MedInventory, ChatLogParser, SongVault, and ExamResultUploader**.  
+
+🔗 **Code Link:**  [Scenario-Based Questions](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based/CollectionsScenarioBasedPractice/src/com)
 
 🔗 **Code:** [JSON Handling Practice](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/JavaIOStreamConcepts/src/main/java/com/json)
+
+
+---
