@@ -12,3 +12,15 @@
 - Merge multiple CSV files and process large files in chunks
 
 🔗 **Code:** [Day 1 – CSV Data Handling Practice](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/JavaIOStreamConcepts/src/main/java/com/iostreams)
+
+---
+
+**Day 2 – Java Data Handling: JSON Processing**  
+*Date: 24-01-2026*  
+*Focus: Working with JSON Data in Java Applications*
+
+- Studied JSON (JavaScript Object Notation) as a lightweight data exchange format.
+- Practiced reading, parsing, and writing JSON data in Java.
+- Worked with JSON objects and arrays for structured data manipulation.
+
+🔗 **Code:** [Day 2 – JSON Handling Practice](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/JavaIOStreamConcepts/src/main/java/com/json)
