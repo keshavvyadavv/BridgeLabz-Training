@@ -793,3 +793,17 @@ Focus: Working with JSON Data in Java Applications
 
 
 ---
+
+## Day 37 – Java I/O & Metadata: Scenario-Based Practice
+**Date:** 27-01-2026 | **Focus:** Annotations, Reflection, CSV & JSON Handling
+
+- Worked on **Annotations & Reflection** for metadata-driven applications  
+- Implemented **HealthCheckPro**: scan API methods using custom annotations  
+- Built **MarkMate**: read CSV, process student marks, generate JSON report cards  
+- Developed **EventTracker**: detect annotated methods, produce JSON audit logs  
+- Focused on **robust data processing** with exception handling and clean code  
+
+🔗 **Code Link:** [Day 37 – IO Scenario-Based Practice](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/scenario-based-codebase/IOStreamsScenarioPractice/src/com)
+
+---
+
