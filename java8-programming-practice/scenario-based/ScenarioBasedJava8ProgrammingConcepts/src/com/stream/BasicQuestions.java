@@ -1,5 +1,7 @@
 package com.stream;
 import java.util.stream.*;
+
+
 import java.util.*;
 
 public class BasicQuestions {
@@ -79,15 +81,17 @@ public class BasicQuestions {
 		String res = sample.chars()
 					  .mapToObj(c -> (char)c)
 					  .distinct()
-					  .map(String::valueOf)
+					  .map(c -> String.valueOf(c))// converts a char to a String. Now the stream becomes Stream<String>
 					  .collect(Collectors.joining());
 //		System.out.println(res);
+		//We use map(String::valueOf) to convert Character stream into String stream
+		//because joining() works only with Strings.
 		
 		//6.Remove Repeating Characters (Keep Only Unique Once)
 		//Input: "aabbccdde"
 		//Output: "e"
 		
-		String s = "aaabbccdde";
+		String s = "aaabbcdde";
 		
 		String r = s.chars()
 		.mapToObj(c -> (char)c)
@@ -98,6 +102,7 @@ public class BasicQuestions {
 		.map(Map.Entry::getKey)
 		.map(String::valueOf)
 		.collect(Collectors.joining(","));
+		System.out.println("new answer : "+r);
 		
 		//7.Remove Non-Alphanumeric Characters
 		//Input: "ja@va#8!!"
@@ -123,7 +128,7 @@ public class BasicQuestions {
 //							 .map(String::valueOf)
 							 .map(c -> String.valueOf(c))
 							 .collect(Collectors.joining());
-		System.out.println(ress);
+//		System.out.println(ress);
 		
 		
 		//9.Keep Only Digits
@@ -133,7 +138,7 @@ public class BasicQuestions {
 		String app = "orderId=AB123XZ9";
 		
 		String plus = app.chars().mapToObj(c -> (char)c)
-			.filter(c -> Character.isDigit(c))
+			.filter(Character::isDigit)
 			.map(c -> c.toString())
 			.collect(Collectors.joining());
 		
@@ -153,7 +158,7 @@ public class BasicQuestions {
 		    		 LinkedHashMap::new,
 		    		 Collectors.counting()));
 		
-		System.out.println(freqq);
+//		System.out.println("answer"+freqq);
 		
 //		  1. Count vowels in a string using Stream
 //			 Input: "programming"
@@ -164,7 +169,7 @@ public class BasicQuestions {
 		                  .filter(e->e == 'a'||e=='i'|| e == 'o'||e == 'u' || e =='e')
 		                  .count();
 		                  //.orElse(0);
-	    System.out.println(count);
+//	    System.out.println(count);
 			
 		
 //		 2. Count number of words in a sentence
@@ -173,7 +178,7 @@ public class BasicQuestions {
 		
 	    String sam = "Java is very powerful";
 	    int words = (int)Arrays.stream(sam.trim().split("\\s+")).count();
-	    System.out.println(words);
+//	    System.out.println(words);
 		
 	      //3. Find even numbers from list
 	 // 	   Input: [2,5,7,8,10,13]
@@ -189,7 +194,7 @@ public class BasicQuestions {
         String [] arrayy = {"java","spring","boot"};
         arrayy = Arrays.stream(arrayy).map(e -> e.toUpperCase()).toArray(String[]::new);
         
-        System.out.println(Arrays.toString(arrayy));
+//        System.out.println(Arrays.toString(arrayy));
         
         //5. Find string length list
 //        Input: ["cat","elephant","dog"]
@@ -208,7 +213,7 @@ public class BasicQuestions {
         String [] ques = {"apple","banana","ant","car"};
 		int an = (int) Arrays.stream(ques).filter(e -> e.startsWith("a")).count();
 		
-		System.out.println(an);
+//		System.out.println(an);
 		
 		//7. Remove empty strings
 //		Input: ["java","","spring","","boot"]
@@ -225,7 +230,7 @@ public class BasicQuestions {
 		int [] q = {1,2,3,4,5};
 		int total = Arrays.stream(q).sum();
 		
-		System.out.println(total);
+//		System.out.println(total);
 		
 		//9. Find max number
 //		Input: [10,25,3,99,45]
@@ -233,7 +238,7 @@ public class BasicQuestions {
 		
 		int [] w = {10,25};
 		int max = Arrays.stream(w).max().getAsInt();
-		System.out.println(max);
+//		System.out.println(max);
 		
 //		10. Reverse each string in list
 //		Input: ["java","api"]
@@ -241,23 +246,49 @@ public class BasicQuestions {
 		
 		String [] g = {"java", "api"};
 		String [] as = Arrays.stream(g).map(e -> new StringBuilder(e).reverse().toString()).toArray(String[]::new);
-		
-		System.out.println(Arrays.toString(g));
-		
+//		System.out.println(Arrays.toString(g));
 		
 		
+		//11. Remove duplicate elements from list
+//			  Input: [1,2,2,3,4,4,5]
+//			  Output: [1,2,3,4,5]
+		
+		int[] nums = {1,2,2,3,4,4,5};
+		int [] ff = Arrays.stream(nums).distinct().toArray();
+//		System.out.println(Arrays.toString(ff));
+//		Arrays.stream convert it in intStream then the distinct remove duplicates then toArray() converts IntStream back to int[]
+		
+//		12. Sort list in descending order
+//		Input: [5,1,9,3]
+//		Output: [9,5,3,1]
+		
+		int [] numss = {5,1,9,3};
+		int [] rees = Arrays.stream(numss)		//Converts int[] to IntStream
+							.boxed()			//convert intStream to IntegerStream because the comparator is only works for objects
+							.sorted(Comparator.reverseOrder())
+							.mapToInt(Integer::valueOf)//convert IntegerStream to intStream
+							.toArray();//convert in intstream to int[] and IntStream.toArray() returns int[]. and Stream<Integer>.toArray() returns Object[]
+		System.out.println(Arrays.toString(rees));
 		
 		
+//		13. Find second highest number
+//		Input: [10,40,30,20]
+//		Output: 30
 		
 		
+		int [] ss = {10,40,30,20};
+		int sss = (int)Arrays.stream(ss)//Arrays.stream(ss) → IntStream
+				.boxed()				//boxed() → Stream<Integer>
+				.sorted(Comparator.reverseOrder()) //sorted(Comparator.reverseOrder()) → descending order
+				.skip(1)				//skip(1) → skips highest element
+				.findFirst()			//findFirst() → second highest as Optional<Integer>
+				.orElse(-1);            //orElse(-1) → default if not present
+
+//		System.out.println(sss);
 		
-		
-		
-		
-		
-		
-		
-		
+//14. Join strings with comma
+//		Input: ["Java","Spring","Boot"]
+//				Output: "Java,Spring,Boot"
 		
 		
 		
