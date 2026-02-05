@@ -244,7 +244,7 @@ BridgeLabz-Training
 
 # Week 2 : Object Oriented Programming
 
-##  Day 9 – Java OOPS: Class & Object
+##  Day 1 – Java OOPS: Class & Object
 
 **(Date: 26-Dec-2025)**
 **(Focus: Core OOPS Fundamentals – Classes and Objects)**
@@ -258,14 +258,14 @@ BridgeLabz-Training
 * Systematically organized all **Class & Object** programs under the `java-oops-practice` branch.
 
 🔗 *Code Link:*
-👉 [Day 9 – Class and Objects](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobjects/level1)
+👉 [Day 1 – Class and Objects](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobjects/level1)
 
  - **Scenario-Based OOPS Practice**  
   👉 [Scenario Based](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/core-java-practice/scenario-based)
 
 ---
 
- **Day 10 – Java OOPS: Constructors & Class-Level Concepts**
+ **Day 2 – Java OOPS: Constructors & Class-Level Concepts**
 *(Date: 27-Dec-2025 | Focus: Constructors, Instance vs Class Variables & Methods)*
 
 Dived deeper into **Java Constructors**, understanding how they play a crucial role in initializing objects at the time of creation.
@@ -287,11 +287,11 @@ Followed proper **naming conventions, indentation, and consistent formatting** a
 Systematically organized all constructor and static concept programs under the **`java-oops-practice`** branch for easy reference and scalability.
 
 🔗 **Code Link:**
-👉 *Day 10 – Constructors & Instance vs Class Concepts*
+👉 *Day 2 – Constructors & Instance vs Class Concepts*
 [https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructors/level1](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructors/level1)
 
 
-**Day 11 – Java OOPS: Core Java Keywords**  
+**Day 3 – Java OOPS: Core Java Keywords**  
 **Date:** 29-Dec-2025  
 **Focus:** static, final, this, instanceof  
 
@@ -307,7 +307,7 @@ Systematically organized all constructor and static concept programs under the *
 - Organized all keyword-based programs systematically in the `java-oops-practice` branch.
 
 ### 🔗 Code Reference
-👉 **Day 11 – static, final, this, instanceof**  
+👉 **Day 3 – static, final, this, instanceof**  
 https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/javakeywords/level1
 
  - **Scenario-Based OOPS Practice**  
@@ -315,7 +315,7 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/jav
 
 --
 
-##  Day 12 – Java OOPS: Data Modeling & Object Relationships
+##  Day 4 – Java OOPS: Data Modeling & Object Relationships
 **Date:** 30-Dec-2025  
 **Focus:** Data Modeling, Association, Aggregation & Composition  
 
@@ -338,7 +338,7 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/jav
   👉 [Scenario Based](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/core-java-practice/scenario-based)
   
 
-## Day 13 – Java OOPS: Inheritance
+## Day 5 – Java OOPS: Inheritance
 (Date: 31-Dec-2025) (Focus: Inheritance & Code Reusability in OOPS)
 
 -> Gained a clear understanding of Inheritance in Java and its role in promoting code reusability.
@@ -363,14 +363,14 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/jav
 
 -> Systematically organized all inheritance-based programs in the java-oops-practice branch.
 
-🔗 Code Link: 👉 Day 13 – Inheritance
+🔗 Code Link: 👉 Day 5 – Inheritance
 
 https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance/level1
 
 - **Scenario-Based OOPS Practice**  
   👉 [Scenario Based](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/oopspracticescenariobasedquestions/src/com)
 
-## Day 14 – Java OOPS: Scenario-Driven Design & Core OOPS Principles
+## Day 6 – Java OOPS: Scenario-Driven Design & Core OOPS Principles
 
  **Date:** 01-Jan-2026  
  **Focus:** Encapsulation, Polymorphism, Abstract Classes & Interfaces  
@@ -412,7 +412,7 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/jav
 
 
 # Week 3: Data Structures & Algorithm
-## Day 15 – Java DSA: Linked List Best Practices
+## Day 1 – Java DSA: Linked List Best Practices
 
 **Date:** 02-Jan-2026  
 **Focus:** Singly, Doubly & Circular Linked Lists
@@ -459,7 +459,7 @@ BridgeLabz-Training
 [Java DSA Linked List Projects](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/linkedlist)
 
 
-# Day 16 – Java DSA: Stack, Queue & HashMap
+# Day 2 – Java DSA: Stack, Queue & HashMap
 
 **Date:** 03-Jan-2026  
 **Focus:** Stack, Queue & HashMap
@@ -480,7 +480,7 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-
 
 ---
 
-## 📅 Day 17 – Stack, Queue & Hashing Fundamentals  
+## 📅 Day 3 – Stack, Queue & Hashing Fundamentals  
 **Date:** 04-Jan-2026  
 
 ### 📘 Topics Covered  
@@ -495,7 +495,7 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-
 
 ---
 
-# Day 18 – Java DSA: Sorting Algorithms
+# Day 4 – Java DSA: Sorting Algorithms
 **Date:** 05-Jan-2026
 
 ## 🔹 Topics Covered
@@ -516,7 +516,7 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-
 
 ---
 
-## Day 19 – Data Structures: Searching, StringBuffer, StringBuilder, File Handling
+## Day 5 – Data Structures: Searching, StringBuffer, StringBuilder, File Handling
 (Date: 06-01-2026) (Focus: String Handling, Searching & File Handling)
 
 - Learned mutable string handling using StringBuffer and StringBuilder, along with their performance differences.
@@ -531,7 +531,7 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-
 
 ---
 
-## Day 20 – Data Structures: Time & Space Complexity
+## Day 6 – Data Structures: Time & Space Complexity
 (Date: 07-01-2026) (Focus: Analyzing Algorithm Efficiency)
 
 - Studied time and space complexity, explored common Big-O notations, and compared algorithms based on efficiency and scalability.
@@ -542,7 +542,7 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-
 
 ---
 
-## Day 21 – Real-World Scenario-Based OOP Problems  
+## Day 7 – Real-World Scenario-Based OOP Problems  
 **Date:** 08-Jan-2026  
 
 ###  Topics Covered  
@@ -554,7 +554,7 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-
 🔗 **Code:**  
 👉 [Scenario-Based OOP Implementations](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/oopspracticescenariobasedquestions/src/com)
 
-## Day 22 – Scenario-Based DSA Problems  
+## Day 8 – Scenario-Based DSA Problems  
 **Date:** 10-Jan-2026  
 
 ### Topics Covered  
@@ -569,7 +569,7 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-
 🔗 **Code:**  
 👉 [Scenario-Based DSA Implementations](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/DsaScenarioBasedPractice/src/com)
 
-## Day 23 – Scenario-Based DSA Problems  
+## Day 9 – Scenario-Based DSA Problems  
 **Date:** 12-Jan-2026  
 
 ### Topics Covered  
@@ -592,7 +592,7 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-
 
 --
 
-## Day 24 – Scenario-Based DSA Problems  
+## Day 10 – Scenario-Based DSA Problems  
 **Date:** 13-Jan-2026  
 
 ### Topics Covered  
@@ -613,7 +613,7 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-
 
 
 # Week 4 : Java Collections
-## Day 25 – Scenario-Based DSA Problems  
+## Day 1 – Scenario-Based DSA Problems  
 **Date:** 15-Jan-2026  
 
 ### Topics Covered  
@@ -634,7 +634,7 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-
 
 --
 
-## Day 26 - List Interface, mapinterface, queueinterface, and setinterface
+## Day 2 - List Interface, mapinterface, queueinterface, and setinterface
 **Date:** 16-Jan-2026 
 
 - Overview of Collections Framework
@@ -655,7 +655,7 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-
 
 ---
 
-## Day 27 - Real-world scenario-based problems involving sorting algorithms
+## Day 3 - Real-world scenario-based problems involving sorting algorithms
 **Date:** 17-Jan-2026 
 
 - **FleetManager** - Vehicle Maintenance Scheduler
@@ -672,7 +672,7 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-
 ---
 
 
-## Day 28 - Real-world scenario-based problems involving sorting algorithms
+## Day 4 - Real-world scenario-based problems involving sorting algorithms
 **Date:** 19-Jan-2026 
 
 ### Implementations  
@@ -688,7 +688,7 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-
 ---
 
 
-## Day 29 - Real-world scenario-based problems involving sorting algorithms
+## Day 5 - Real-world scenario-based problems involving sorting algorithms
 **Date:** 20-Jan-2026 
 
 - **MovieTime** – Theater Show Listings
@@ -700,7 +700,7 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-
 
 ---
 
-## Day 30 - Real-world scenario-based problems involving sorting algorithms
+## Day 6 - Real-world scenario-based problems involving sorting algorithms
 **Date:** 21-Jan-2026 
 
 - **TailorShop** – Sorting Orders by Delivery Deadline
@@ -711,17 +711,17 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-
 
 ---
 
-## Day 31 – Java File Handling & I/O Streams (19-01-2026)
+## Day 7 – Java File Handling & I/O Streams (19-01-2026)
 
 - Studied Java file handling using byte and character streams  
 - Learned basic vs buffered streams and performance benefits  
 - Practiced console input and file writing with reader/writer classes  
 
-🔗 **Code Link:** [Day 31 – Java File Handling & Streams Practice](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionConcepts/src/com/streams)
+🔗 **Code Link:** [Java File Handling & Streams Practice](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionConcepts/src/com/streams)
 
 ---
 
-## Day 32 – Java: Exception Handling (20-01-2026)
+## Day 8 – Java: Exception Handling (20-01-2026)
 
 - Studied exception handling to manage runtime errors safely  
 - Learned `try`, `catch`, `finally`, `throw`, and `throws` usage  
@@ -729,35 +729,35 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-
 - Practiced creating and using custom exceptions  
 - Focused on writing robust and maintainable code  
 
-🔗 **Code Link:** [Day 32 – Exception Handling Practice](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionConcepts/src/com/exceptions)
+🔗 **Code Link:** [Exception Handling Practice](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionConcepts/src/com/exceptions)
 
 ---
 
-## Day 33 – Java Fundamentals: Regex & JUnit (21-01-2026)
+## Day 9 – Java Fundamentals: Regex & JUnit (21-01-2026)
 
 - Studied regex basics, metacharacters, and quantifiers  
 - Implemented regex use cases like email, password, and phone validation  
 - Worked with Java Regex API using `Pattern` and `Matcher`
   
-🔗 **Code Link:** [Day 5 – JUnit](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionConcepts/src/com/junit)
-[Day 5 – regex](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionConcepts/src/com/regex)
+🔗 **Code Link:** [JUnit](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionConcepts/src/com/junit)
+[regex](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionConcepts/src/com/regex)
 
 ---
 
-## Day 34 – Reflection & Annotations (22-01-2026)
+## Day 10 – Reflection & Annotations (22-01-2026)
 
 - Studied Java Reflection for runtime class inspection  
 - Learned dynamic method access and metadata analysis  
 - Explored built-in and custom annotations  
 - Used reflection to process annotations at runtime  
 
-🔗 **Code Link:**  [Day 34 – Reflection & Annotations Practice](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionConcepts/src/com/reflection)
+🔗 **Code Link:**  [Reflection & Annotations Practice](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionConcepts/src/com/reflection)
 
 ---
 
 # Week 5: Java IOStreams
 
-## Day 35 – Java File Handling: CSV Data Processing  
+## Day 1 – Java File Handling: CSV Data Processing  
 **Date:** 23-01-2026  
 
 **Focus:** CSV Handling from Basics to Advanced Scenarios
@@ -777,7 +777,7 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-
 
 ---
 
-**Day 36 – Java Data Handling: JSON Processing**  
+**Day 2 – Java Data Handling: JSON Processing**  
 **Date**: 24-01-2026  
 Focus: Working with JSON Data in Java Applications
 
@@ -794,7 +794,7 @@ Focus: Working with JSON Data in Java Applications
 
 ---
 
-## Day 37 – Java I/O & Metadata: Scenario-Based Practice
+## Day 3 – Java I/O & Metadata: Scenario-Based Practice
 **Date:** 27-01-2026 | **Focus:** Annotations, Reflection, CSV & JSON Handling
 
 - Worked on **Annotations & Reflection** for metadata-driven applications  
@@ -803,13 +803,13 @@ Focus: Working with JSON Data in Java Applications
 - Developed **EventTracker**: detect annotated methods, produce JSON audit logs  
 - Focused on **robust data processing** with exception handling and clean code  
 
-🔗 **Code Link:** [Day 37 – IO Scenario-Based Practice](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/scenario-based-codebase/IOStreamsScenarioPractice/src/com)
+🔗 **Code Link:** [IO Scenario-Based Practice](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/scenario-based-codebase/IOStreamsScenarioPractice/src/com)
 
 ---
 
 # Week 6: Java 8 Features
 
-## Day 37 – Lambda, Functional & Marker Interfaces
+## Day 1 – Lambda, Functional & Marker Interfaces
 **Date:** 27-01-2026 | **Focus:** Functional Programming Enhancements
 
 - **Lambda Expressions** → concise code for functional interfaces  
@@ -818,11 +818,11 @@ Focus: Working with JSON Data in Java Applications
 - **Marker Interfaces** → metadata without methods  
 - **Applied in examples** → readability, maintainability, Streams prep  
 
-🔗 **Code Link:** [Day 37 – Java 8 Practice](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingConcepts/src/com)
+🔗 **Code Link:** [Java 8 Practice](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingConcepts/src/com)
 
 ---
 
-## Day 38 – Java 8 Streams API
+## Day 2 – Java 8 Streams API
 **Date:** 28-01-2026 | **Focus:** Data Processing with Streams, forEach & Collectors
 
 - Learned **Streams API** for declarative, functional collection processing  
@@ -833,4 +833,16 @@ Focus: Working with JSON Data in Java Applications
 - Common collectors: **toList(), toSet(), toMap(), groupingBy(), counting()**  
 - Applied in **Smart City Transport System**: filter schedules, live dashboard, passenger trip analysis  
 
-🔗 **Code Link:** [Day 38 – Java 8 Streams Practice](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingConcepts/src/com)
+🔗 **Code Link:** [Java 8 Streams Practice](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingConcepts/src/com)
+
+---
+## Week 7 : Java Design Principles & Design Patterns
+## Day 1 – SOLID Principles (31-Jan-2026)
+
+### Topics Covered
+- **Single Responsibility Principle (SRP)**
+- **Open/Closed Principle (OCP)**
+- **Liskov Substitution Principle (LSP)**
+- **Interface Segregation Principle (ISP)**
+- **Dependency Inversion Principle (DIP)**
+👉 [SOLID Principles](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/JavaDesignPatternConcepts/src/com/studentlibrarymanagementsystem)
