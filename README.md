@@ -258,40 +258,29 @@ BridgeLabz-Training
 * Systematically organized all **Class & Object** programs under the `java-oops-practice` branch.
 
 🔗 *Code Link:*
-👉 [Day 1 – Class and Objects](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobjects/level1)
+  👉 [Day 1 – Class and Objects](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobjects/level1)
 
  - **Scenario-Based OOPS Practice**  
   👉 [Scenario Based](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/core-java-practice/scenario-based)
 
 ---
 
- **Day 2 – Java OOPS: Constructors & Class-Level Concepts**
+ ## Day 2 – Java OOPS: Constructors & Class-Level Concepts
 *(Date: 27-Dec-2025 | Focus: Constructors, Instance vs Class Variables & Methods)*
 
-Dived deeper into **Java Constructors**, understanding how they play a crucial role in initializing objects at the time of creation.
+- Deep dive into **Java Constructors** and object initialization  
+- Practiced **default** and **parameterized constructors**  
+- Understood **instance variables vs static variables**  
+- Implemented programs to observe **shared state of static variables**  
+- Learned **instance methods vs static methods** with use cases  
+- Followed best practices for accessing instance and static members  
+- Focused on **clean, readable, well-structured OOPS code**  
+- Maintained proper **naming conventions and formatting**
 
-Hands-on practice with both **default** and **parameterized constructors**, assigning meaningful initial values to objects for better design clarity.
-
-Explored the key differences between **instance variables** (unique to each object) and **class-level (static) variables**, which are shared across all objects of a class.
-
-Implemented multiple programs to clearly observe how **static variables maintain a common state** when accessed by different objects.
-
-Strengthened understanding of **instance methods vs static methods**, including real-world scenarios of when and why each should be used.
-
-Gained confidence in accessing **instance members through objects** and **static members using the class name**, following best practices.
-
-Maintained a strong focus on writing **clean, readable, and well-structured OOPS-based code**.
-
-Followed proper **naming conventions, indentation, and consistent formatting** across all programs.
-
-Systematically organized all constructor and static concept programs under the **`java-oops-practice`** branch for easy reference and scalability.
-
-🔗 **Code Link:**
-👉 *Day 2 – Constructors & Instance vs Class Concepts*
-[https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructors/level1](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructors/level1)
+🔗 **Code Link:** 👉 [Constructors & Instance vs Class Concepts](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructors/level1)
 
 
-**Day 3 – Java OOPS: Core Java Keywords**  
+## Day 3 – Java OOPS: Core Java Keywords
 **Date:** 29-Dec-2025  
 **Focus:** static, final, this, instanceof  
 
@@ -308,7 +297,8 @@ Systematically organized all constructor and static concept programs under the *
 
 ### 🔗 Code Reference
 👉 **Day 3 – static, final, this, instanceof**  
-https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/javakeywords/level1
+
+🔗 **Code Link:** 👉 [Java Keywords](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/javakeywords/level1)
 
  - **Scenario-Based OOPS Practice**  
   👉 [Scenario Based](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/core-java-practice/scenario-based)
@@ -332,7 +322,8 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/jav
 - Organized all programs systematically in the java-oops-practice branch.
 
 ### 🔗 Code Reference
- https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodeling/level1
+🔗 **Code Link:** 
+👉 [Object Modeling](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodeling/level1)
 
  - **Scenario-Based OOPS Practice**  
   👉 [Scenario Based](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/core-java-practice/scenario-based)
@@ -341,31 +332,20 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/jav
 ## Day 5 – Java OOPS: Inheritance
 (Date: 31-Dec-2025) (Focus: Inheritance & Code Reusability in OOPS)
 
--> Gained a clear understanding of Inheritance in Java and its role in promoting code reusability.
-
--> Learned how superclass (parent) and subclass (child) are connected through inheritance.
-
--> Practiced single inheritance to reuse and extend the features of an existing base class.
-
--> Explored multilevel inheritance, where a class derives from another derived class.
-
--> Implemented hierarchical inheritance to represent multiple subclasses inheriting from one common parent class.
-
--> Used the extends keyword to create inheritance relationships between classes.
-
--> Understood the concept of method overriding in inherited classes.
-
--> Learned the importance of the super keyword for accessing parent class constructors and methods.
-
--> Emphasized writing clean, readable, and well-structured OOPS-based code.
-
--> Maintained proper naming conventions, indentation, and consistent formatting throughout the code.
-
--> Systematically organized all inheritance-based programs in the java-oops-practice branch.
+- Gained a clear understanding of Inheritance in Java and its role in promoting code reusability.
+- Learned how superclass (parent) and subclass (child) are connected through inheritance.
+- Practiced single inheritance to reuse and extend the features of an existing base class.
+- Explored multilevel inheritance, where a class derives from another derived class.
+- Implemented hierarchical inheritance to represent multiple subclasses inheriting from one common parent class.
+- Used the extends keyword to create inheritance relationships between classes.
+- Understood the concept of method overriding in inherited classes.
+- Learned the importance of the super keyword for accessing parent class constructors and methods.
 
 🔗 Code Link: 👉 Day 5 – Inheritance
 
-https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance/level1
+
+🔗 **Code Link:** 
+  👉 [Inheritance](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance/level1)
 
 - **Scenario-Based OOPS Practice**  
   👉 [Scenario Based](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/oopspracticescenariobasedquestions/src/com)
@@ -376,32 +356,16 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/jav
  **Focus:** Encapsulation, Polymorphism, Abstract Classes & Interfaces  
 
 - Solved **4 real-world, scenario-based OOPS problems** using proper object-oriented design techniques.
-
 - Implemented **Encapsulation** by securing data with private fields and providing controlled access using getters and setters.
-
 - Gained hands-on understanding of **Polymorphism** by using common method names with different implementations across classes.
-
 - Practiced **Abstract Classes** to define shared behavior with partial implementation.
-
 - Used **Interfaces** to define standard contracts implemented by multiple classes.
-
 - Followed a **structured scenario-solving approach**, including:
   - Understanding the scenario and constraints  
   - Identifying entities, responsibilities, and relationships  
   - Designing classes, constructors, methods, and access modifiers  
-
 - Applied **Inheritance, Interfaces, and Polymorphism** wherever logically required.
-
-- Selected **appropriate data structures** based on scenario requirements.
-
-- Focused on writing **clean, modular, readable, and maintainable Java OOPS code**.
-
-- Maintained **consistent naming conventions, proper indentation, and logical structure**.
-
-- Organized all OOPS practice programs systematically under the **`java-oops-practice`** branch.
-
----
-
+- 
 ### 🔗 Code Links
 
 - **Scenario-Based OOPS Practice**  
@@ -410,6 +374,7 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/jav
 - **Java OOPS Concepts – Encapsulation & Polymorphism**  
   👉 [Encapsulation & Polymorphism](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulationandpolymorphism)
 
+---
 
 # Week 3: Data Structures & Algorithm
 ## Day 1 – Java DSA: Linked List Best Practices
@@ -454,12 +419,12 @@ BridgeLabz-Training
 
 ## 🔗 Code Repository
 - **Scenario-Based OOPS Practice**  
-  👉 [Scenario Based](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/oopspracticescenariobasedquestions/src/com)
+👉 [Scenario Based](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/oopspracticescenariobasedquestions/src/com)
 
-[Java DSA Linked List Projects](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/linkedlist)
+👉[Java DSA Linked List Projects](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/linkedlist)
 
 
-# Day 2 – Java DSA: Stack, Queue & HashMap
+## Day 2 – Java DSA: Stack, Queue & HashMap
 
 **Date:** 03-Jan-2026  
 **Focus:** Stack, Queue & HashMap
@@ -475,15 +440,16 @@ BridgeLabz-Training
 ## 🔗 Code Repository  
 - **Scenario-Based OOPS Practice**  
   👉 [Scenario Based](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/oopspracticescenariobasedquestions/src/com)
-  
-https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com
+
+🔗 **Code Link:** 
+ 👉 [JavaDSAConcepts](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com)
 
 ---
 
-## 📅 Day 3 – Stack, Queue & Hashing Fundamentals  
+## Day 3 – Stack, Queue & Hashing Fundamentals  
 **Date:** 04-Jan-2026  
 
-### 📘 Topics Covered  
+### Topics Covered  
 - **Stack (LIFO):** push, pop, peek; recursion, undo/redo  
 - **Queue (FIFO):** offer, poll; `LinkedList`, `PriorityQueue`, `ArrayDeque`  
 - **Implementation:** Ticket Counter using Queue  
@@ -495,24 +461,24 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-
 
 ---
 
-# Day 4 – Java DSA: Sorting Algorithms
+## Day 4 – Java DSA: Sorting Algorithms
 **Date:** 05-Jan-2026
 
-## 🔹 Topics Covered
+## Topics Covered
 
-* Bubble Sort – Student Marks
-* Insertion Sort – Employee IDs
-* Selection Sort – Exam Scores
-* Merge Sort – Book Prices
-* Quick Sort – Product Prices
-* Heap Sort – Job Applicants’ Salary
-* Counting Sort – Student Ages (10–18)
+- Bubble Sort – Student Marks
+- Insertion Sort – Employee IDs
+- Selection Sort – Exam Scores
+- Merge Sort – Book Prices
+- Quick Sort – Product Prices
+- Heap Sort – Job Applicants’ Salary
+- Counting Sort – Student Ages (10–18)
 
 ## 🔗 Code Repository
 - **Scenario-Based OOPS Practice**  
 👉 [Scenario Based](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/oopspracticescenariobasedquestions/src/com)
   
-👉 [https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/sortingalgorithms](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/sortingalgorithms)
+👉 [Sorting Algorithms](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/sortingalgorithms)
 
 ---
 
@@ -538,7 +504,8 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-
 - **Scenario-Based OOPS Practice**  
   👉 [Scenario Based: parkease](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/oopspracticescenariobasedquestions/src/com/parkease)
   
-🔗 **Code Link:** 👉 [Day 19 – Data Structures: Time & Space Complexity](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/algorithmruntimeanalysis)
+🔗 **Code Link:** 
+ 👉 [Data Structures: Time & Space Complexity](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/algorithmruntimeanalysis)
 
 ---
 
@@ -554,6 +521,8 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-
 🔗 **Code:**  
 👉 [Scenario-Based OOP Implementations](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/oopspracticescenariobasedquestions/src/com)
 
+---
+
 ## Day 8 – Scenario-Based DSA Problems  
 **Date:** 10-Jan-2026  
 
@@ -568,6 +537,8 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-
 
 🔗 **Code:**  
 👉 [Scenario-Based DSA Implementations](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/DsaScenarioBasedPractice/src/com)
+
+---
 
 ## Day 9 – Scenario-Based DSA Problems  
 **Date:** 12-Jan-2026  
@@ -590,7 +561,7 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-
 
 👉 [Scenario-Based OOPs Implementations](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/oopspracticescenariobasedquestions/src/com)
 
---
+---
 
 ## Day 10 – Scenario-Based DSA Problems  
 **Date:** 13-Jan-2026  
@@ -611,8 +582,10 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-
 
 👉 [Scenario-Based OOPs Implementations](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/oopspracticescenariobasedquestions/src/com)
 
+---
 
 # Week 4 : Java Collections
+
 ## Day 1 – Scenario-Based DSA Problems  
 **Date:** 15-Jan-2026  
 
@@ -632,7 +605,7 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-
 👉 [Scenario-Based DSA Implementations](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/scenario-based/DsaScenarioBasedPractice/src/com)
 👉 [Java Collection Generics ](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionConcepts/src/com/generic)
 
---
+---
 
 ## Day 2 - List Interface, mapinterface, queueinterface, and setinterface
 **Date:** 16-Jan-2026 
@@ -671,7 +644,6 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-
 
 ---
 
-
 ## Day 4 - Real-world scenario-based problems involving sorting algorithms
 **Date:** 19-Jan-2026 
 
@@ -686,7 +658,6 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-
 👉 [Scenario-Based OOPs Implementations](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/oopspracticescenariobasedquestions/src/com)
 
 ---
-
 
 ## Day 5 - Real-world scenario-based problems involving sorting algorithms
 **Date:** 20-Jan-2026 
@@ -777,7 +748,7 @@ https://github.com/keshavvyadavv/BridgeLabz-Training/tree/dsa-practice/java-dsa-
 
 ---
 
-**Day 2 – Java Data Handling: JSON Processing**  
+## Day 2 – Java Data Handling: JSON Processing
 **Date**: 24-01-2026  
 Focus: Working with JSON Data in Java Applications
 
@@ -836,7 +807,7 @@ Focus: Working with JSON Data in Java Applications
 🔗 **Code Link:** [Java 8 Streams Practice](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingConcepts/src/com)
 
 ---
-## Week 7 : Java Design Principles & Design Patterns
+# Week 7 : Java Design Principles & Design Patterns
 ## Day 1 – SOLID Principles (31-Jan-2026)
 
 ### Topics Covered
