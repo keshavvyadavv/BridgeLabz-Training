@@ -67,10 +67,10 @@ public class BasicQuestions {
 				LinkedHashMap::new, 
 				Collectors.counting()  
 				))
-		.entrySet()
-		.stream()
-		.filter(e -> e.getValue() == 1)
-		.map(Map.Entry::getKey);
+				.entrySet()
+				.stream()
+				.filter(e -> e.getValue() == 1)
+				.map(Map.Entry::getKey);
 //		.forEach(c -> System.out.print(c + " "));
 		
 		//5.Remove Duplicate Characters
@@ -268,7 +268,7 @@ public class BasicQuestions {
 							.sorted(Comparator.reverseOrder())
 							.mapToInt(Integer::valueOf)//convert IntegerStream to intStream
 							.toArray();//convert in intstream to int[] and IntStream.toArray() returns int[]. and Stream<Integer>.toArray() returns Object[]
-		System.out.println(Arrays.toString(rees));
+//		System.out.println(Arrays.toString(rees));
 		
 		
 //		13. Find second highest number
@@ -286,16 +286,168 @@ public class BasicQuestions {
 
 //		System.out.println(sss);
 		
-//14. Join strings with comma
+//		14. Join strings with comma
 //		Input: ["Java","Spring","Boot"]
-//				Output: "Java,Spring,Boot"
+//		Output: "Java,Spring,Boot"
+		
+		String[] st = {"Java","Spring","Boot"};
+		String rt = Arrays.stream(st).collect(Collectors.joining(","));
+		
+//		System.out.println(rt);
+		//Arrays.stream(st) → converts array to Stream<String>
+		//collect() → collects stream elements
+		//Collectors.joining(",") → joins elements with comma
+		
+//		15. Frequency of each character
+//		Input: "banana"
+//		Output: {b=1, a=3, n=2}
+		
+		String stt = "banana";
+		Map<Character , Long> ffreqq = stt.chars()
+											.mapToObj(c -> (char)c)
+											.collect(Collectors.groupingBy(c->c,LinkedHashMap::new ,Collectors.counting()));
+		
+		//System.out.println(ffreqq);
+		
+//		16. Find numbers greater than 50
+//		Input: [10,55,60,23,90]
+//		Output: [55,60,90]
+		
+		int[] qtt = {10,55,60,23,90};
+		int [] ar = Arrays.stream(qtt).filter(e -> e>50).toArray();
+//		System.out.println(Arrays.toString(ar));
 		
 		
+//		17. Group strings by length
+//		Input: ["a","bb","ccc","dd"]
+//		Output: {1=[a], 2=[bb,dd], 3=[ccc]}
+		
+		String [] sl = {"a","bb","ccc","dd"};
+		
+		Map<Integer,List<String>> a = Arrays.stream(sl).collect(Collectors.groupingBy(String::length));
+//		System.out.println(a);
+		
+//		18. Find first non-repeated character
+//		Input: "stress"
+//		Output: t
+		
+		String p = "stress";
+		char qq = p.chars().mapToObj(c -> (char)c)
+					.collect(Collectors.groupingBy(c->c,LinkedHashMap::new,Collectors.counting()))
+					.entrySet()
+					.stream()
+					.filter(e -> e.getValue() == 1)
+					.map(Map.Entry::getKey)
+					.findFirst()
+					.orElse('1');
+				
+//		System.out.println(qq == '1' ? "not found" : qq);
+				
+//		19. Convert List<Integer> to List<String>
+//		Input: [1,2,3]
+//		Output: ["1","2","3"]
+				
+		
+		List<Integer> qs = Arrays.asList(1,2,3);
+		List<String> l = qs.stream().map(String::valueOf).toList();
+//		System.out.println(l);
 		
 		
+//		20. Count occurrences of each word
+//		Input: "java is java and java is fast"
+//		Output: {java=3, is=2, and=1, fast=1}
 		
 		
+		String sr = "java is java and java is fast";
+		Map<String , Long> fr = Arrays.stream(sr.split("\s+"))               // important
+									.collect(Collectors.groupingBy(word -> word, LinkedHashMap::new,Collectors.counting()));
+//		System.out.println(fr);
 		
+		
+//		21. Partition numbers into even and odd
+//		Input: [1,2,3,4,5,6]
+//		Output: {even=[2,4,6], odd=[1,3,5]}
+		
+		int [] aar = {1,2,3,4,5,6};
+		Map<String , List<Integer>> f = Arrays.stream(aar)//Converts int[] to IntStream
+												.boxed()  //IntStream → Stream<Integer>
+												.collect(Collectors.groupingBy(n -> n%2==0 ? "even" : "odd"));//Converts boolean condition into String keys
+		//System.out.println(f);
+		
+//		22. Find duplicate elements only
+//		Input: [1,2,3,2,4,5,1]
+//		Output: [1,2]
+		
+		int [] d = {1,2,3,2,4,5,1};
+		int [] rrr = Arrays.stream(d)
+						.boxed() //// IntStream → Stream<Integer> because grouping only works for non-Primitive
+						.collect(Collectors.groupingBy(c->c , Collectors.counting()))
+						.entrySet()
+						.stream()
+						.filter(e -> e.getValue() > 1)
+						.mapToInt(Map.Entry::getKey)//Converts to primitive int
+						.toArray();//return int[]
+//		System.out.println(Arrays.toString(rrr));
+		
+//		23. Find longest string
+//		Input: ["java","microservices","api"]
+//		Output: "microservices"
+				
+		String [] m = {"java","microservices","api"};
+		String t = Arrays.stream(m)
+						.max(Comparator.comparingInt(String::length))
+						.orElse(null);
+//		System.out.println(t);
+				
+//		24. Find top 3 highest numbers
+//		Input: [10,90,30,70,50]
+//		Output: [90,70,50]
+		
+		
+		int [] b = {90,30,30,30,30};
+		int [] k = Arrays.stream(b) 
+						.distinct()	//Converts primitive int → Integer Required for sorting with Comparator
+						.boxed()	// IntStream → Stream<Integer>
+						.sorted(Comparator.reverseOrder())// descending
+						.limit(3)					// take top 3
+						.mapToInt(Integer::intValue) // back to int
+						.toArray();// convert int to []int
+		
+//		System.out.println(Arrays.toString(k));
+		
+//		25. Flatten list of lists
+//		Input: [[1,2],[3,4],[5]]
+//		Output: [1,2,3,4,5]
+		
+		List<List<Integer>> ll = Arrays.asList(
+				                        Arrays.asList(1,2),
+				                        Arrays.asList(3,4),
+				                        Arrays.asList(5)
+				                 );
+		
+		List<Integer> rs = ll.stream()
+								.flatMap(List::stream) //flatMap() is used to flatten a stream of collections into a single stream.
+								.toList();
+//		System.out.println(rs);
+		
+//		26. Find sum of squares of even numbers
+//		Input: [1,2,3,4,5]
+//		Output: 20 (2² + 4²)
+		
+		int [] ad = {1,2,3,4,5};
+		
+		int rq = Arrays.stream(ad)
+						.filter(e->e%2 == 0)
+						.map(e->e*e)
+						.sum();
+//		System.out.println(rq);
+		
+//		27. Sort map by value
+//		Input: {A=3, B=1, C=2}
+//		Output: {B=1, C=2, A=3}
+		
+		String kk = "java is power lang";
+//		int counnt = Arrays.stream(kk.split("\\s+")).
 		
 		
 		
