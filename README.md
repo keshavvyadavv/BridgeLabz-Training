@@ -19,4 +19,4 @@
 - Practiced synchronization, thread safety, and inter-thread communication (wait/notify).  
 - Studied concurrency issues (race condition, deadlock).  
 
-👉 [Day 2 – Java Multithreading Practice](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/JavaDesignPatternConcepts/src/com/studentlibrarymanagementsystem)
+👉 [Day 2 – Java Multithreading Practice](https://github.com/keshavvyadavv/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/JavaDesignPatternConcepts/src/com/javamultithreading)
