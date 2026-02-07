@@ -1,4 +1,4 @@
-package com.downloadmanager;
+package com.javamultithreading.downloadmanager;
 
 public class DownloadManagerThreadApproach {
 

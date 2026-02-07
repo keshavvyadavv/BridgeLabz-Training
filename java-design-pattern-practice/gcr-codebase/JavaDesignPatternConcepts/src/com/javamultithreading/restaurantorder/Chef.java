@@ -1,4 +1,4 @@
-package com.restaurantorder;
+package com.javamultithreading.restaurantorder;
 
 class Chef extends Thread {
 

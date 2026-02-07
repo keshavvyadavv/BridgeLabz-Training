@@ -1,4 +1,4 @@
-package com.threadstatemonitoring;
+package com.javamultithreading.threadstatemonitoring;
 
 class TaskRunner extends Thread {
 

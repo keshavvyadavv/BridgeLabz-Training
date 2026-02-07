@@ -1,4 +1,4 @@
-package com.downloadmanager;
+package com.javamultithreading.downloadmanager;
 import java.util.Random;
 
 class FileDownloaderThread extends Thread {

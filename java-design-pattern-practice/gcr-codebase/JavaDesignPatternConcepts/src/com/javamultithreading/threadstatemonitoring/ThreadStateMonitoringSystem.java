@@ -1,4 +1,4 @@
-package com.threadstatemonitoring;
+package com.javamultithreading.threadstatemonitoring;
 public class ThreadStateMonitoringSystem {
 
     public static void main(String[] args) {

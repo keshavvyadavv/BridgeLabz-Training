@@ -1,4 +1,4 @@
-package com.threadstatemonitoring;
+package com.javamultithreading.threadstatemonitoring;
 import java.time.LocalTime;
 import java.util.HashMap;
 import java.util.HashSet;

@@ -1,4 +1,4 @@
-package com.bankingsystem;
+package com.javamultithreading.bankingsystem;
 
 public class BankingSystem {
 

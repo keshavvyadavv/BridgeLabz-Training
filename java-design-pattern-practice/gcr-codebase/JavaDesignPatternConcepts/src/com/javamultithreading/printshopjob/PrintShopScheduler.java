@@ -1,4 +1,4 @@
-package com.printshopjob;
+package com.javamultithreading.printshopjob;
 
 public class PrintShopScheduler {
 
