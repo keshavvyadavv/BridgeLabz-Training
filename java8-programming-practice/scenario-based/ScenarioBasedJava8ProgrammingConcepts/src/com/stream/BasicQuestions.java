@@ -1,5 +1,6 @@
 package com.stream;
 import java.util.stream.*;
+import java.util.stream.Collectors;
 
 
 import java.util.*;
@@ -448,6 +449,144 @@ public class BasicQuestions {
 		
 		String kk = "java is power lang";
 //		int counnt = Arrays.stream(kk.split("\\s+")).
+		
+		
+//		*** List → Map Conversions
+		
+		//1.Convert List of strings to Map with string as key and length as value
+		
+		List<String> stringList = Arrays.asList("keshav","vishu","adarsh","ravi");
+		
+//		Map<String , Integer> answeer = stringList.stream().collect(Collectors.toMap(s->s, s->s.length()));
+
+		Map<String, Integer> ansswer =
+                stringList.stream()
+                          .collect(Collectors.toMap(
+                              ssss-> ssss,
+                              ssss-> ssss.length()
+                          ));
+		
+//		System.out.println(ansswer);/
+		
+//		2.Convert List of integers to Map with number and its square
+		
+		List<Integer> integerList = Arrays.asList(1,2,3,4,5,6,7);
+		
+		Map<Integer , Integer> aas = integerList.stream().collect(Collectors.toMap(num->num,num-> num*num));
+//		
+//		System.out.println(aas);
+		
+//		3.Convert List of employees to Map with id as key and name as value
+		
+		class Employee {
+			String name;
+			int id;
+			public Employee(String name , int id){
+				this.name = name;
+				this.id = id;
+			}
+		}
+		
+		Employee e1 = new Employee("keshav",1);
+		Employee e2 = new Employee("viry",5);
+		Employee e3 = new Employee("adarsh",9);
+		Employee e4 = new Employee("abhi",64);
+		Employee e5 = new Employee("abhi",100);
+		Employee e6 = new Employee("keshav",21);
+		
+		List<Employee> listOfEmployees = Arrays.asList(e1,e2,e3,e4,e5,e6);
+		
+//		Map<Integer , String> gg = listOfEmployees.stream().collect(Collectors.toMap(emp->emp.id, emp->emp.name));
+		
+//		System.out.println(gg);
+		
+		
+		
+		//4.Convert List of words to Map with word and frequency
+		
+		List<String> listOfWords = Arrays.asList("kesh","abhi","ravi","subhi","kesh","ravi","ravi");
+		
+//		Map<String , Long> wordAndFreq = listOfWords.stream().collect(Collectors.groupingBy(wordd->wordd,LinkedHashMap::new,Collectors.counting()));
+		
+//		System.out.println(wordAndFreq);
+		
+//		5.Convert List to Map with index as key and element as value
+		
+		List<String> indexAndElement = Arrays.asList("vivobook","notebook","abhibook");
+		
+		Map<Integer,String> chanagee = IntStream.range(0, indexAndElement.size())
+										  			.boxed()
+										  			.collect(Collectors.toMap(
+										  					i -> i,
+										  					i -> indexAndElement.get(i)
+										  					));
+//		System.out.println(chanagee);
+		
+//		6.Convert List of objects to Map using custom key field
+		
+		
+//		 Map<String, Integer> reesult =
+//				 listOfEmployees.stream()
+//	                         .collect(Collectors.toMap(
+//	                             Employee -> Employee.name, 
+//	                             Employee -> Employee.id               
+//	                         ));
+//		System.out.println(reesult);
+		
+		
+//		 7.Convert List to Map and handle duplicate keys
+		 
+		 List<String> kessh = Arrays.asList("java", "python", "java");
+
+		 Map<String , Integer> yy = kessh.stream().collect(Collectors.toMap(woord -> woord , woord -> woord.length(), (oldValue,newValue)->newValue));
+		 
+//		 System.out.println(yy);
+		 
+//		 8.Convert List to Map keeping only first duplicate
+		 
+		 Map<String , Integer> n = listOfEmployees.stream().collect(Collectors.toMap(eemp -> eemp.name , eemp -> eemp.id, (olddValue , newwValue)->olddValue));
+				 
+//		 System.out.println(n);
+		
+//		9.Convert List to Map keeping only last duplicate
+		 
+		 Map<String , Integer> lastDuplicateInMap = listOfEmployees.stream().collect(Collectors.toMap(empp -> empp.name , empp -> empp.id , (old,neww)-> old));
+		 
+//		 System.out.println(lastDuplicateInMap);
+		 
+//		 10.Convert List into Map grouped by string length
+		 
+
+	        List<String> list = Arrays.asList("java", "api", "stream", "code");
+	        
+		 Map<Integer , List<String>> group = list.stream().collect(Collectors.groupingBy(String::length));
+		 
+//		 System.out.println(group);
+		 
+		 
+		 
+		 
+		 
+				 
+		 
+		 
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		
 		
 		
