@@ -220,8 +220,10 @@ public class BasicQuestions {
 //		Input: ["java","","spring","","boot"]
 //				Output: ["java","spring","boot"]
 		
-		String[] strr = {"java","","spring"," k","boot"};
-		String [] rr = Arrays.stream(strr).filter(ss -> ss.trim().length() != 0).toArray(String[]::new);
+		String[] strr = {"java","","spr"};
+		String [] ss = Arrays.stream(strr)
+                .filter(t -> !t.trim().isEmpty())
+                .toArray(String[]::new);
 //		System.out.println(Arrays.toString(rr));
 		
 		//8. Sum of all numbers using stream
@@ -277,8 +279,8 @@ public class BasicQuestions {
 //		Output: 30
 		
 		
-		int [] ss = {10,40,30,20};
-		int sss = (int)Arrays.stream(ss)//Arrays.stream(ss) → IntStream
+		int [] ssss = {10,40,30,20};
+		int sss = (int)Arrays.stream(ssss)//Arrays.stream(ss) → IntStream
 				.boxed()				//boxed() → Stream<Integer>
 				.sorted(Comparator.reverseOrder()) //sorted(Comparator.reverseOrder()) → descending order
 				.skip(1)				//skip(1) → skips highest element
@@ -563,6 +565,17 @@ public class BasicQuestions {
 		 
 //		 System.out.println(group);
 		 
+		 //pime number using stream
+		 
+		 List<Integer> nms = Arrays.asList(1,54,64,3,64,17,4,19);
+		 
+		 Map<Boolean , List<Integer>> ansss = nms.stream()
+				 					.collect(Collectors.partitioningBy(BasicQuestions::isPrime));
+		 
+		 System.out.println(ansss);
+		 
+		 
+		 
 		 
 		 
 		 
@@ -597,5 +610,12 @@ public class BasicQuestions {
 		
 		
 		
+	}
+	static public  boolean isPrime(int n) {
+		if(n == 1) {
+			return true;
+		}
+		return IntStream.rangeClosed(2, (int)Math.sqrt(n))
+						.noneMatch(i -> n % i == 0);
 	}
 }
